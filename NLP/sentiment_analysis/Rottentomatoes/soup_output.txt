@@ -1,0 +1,2062 @@
+<!DOCTYPE html>
+
+<html dir="ltr" lang="en" prefix="fb: http://www.facebook.com/2008/fbml og: http://opengraphprotocol.org/schema/" xmlns="http://www.w3.org/1999/xhtml">
+<head prefix="og: http://ogp.me/ns# flixstertomatoes: http://ogp.me/ns/apps/flixstertomatoes#">
+<script charset="UTF-8" crossorigin="anonymous" data-domain-script="7e979733-6841-4fce-9182-515fac69187f" integrity="sha384-TKdmlzVmoD70HzftTw4WtOzIBL5mNx8mXSRzEvwrWjpIJ7FZ/EuX758yMDWXtRUN" src="https://cdn.cookielaw.org/consent/7e979733-6841-4fce-9182-515fac69187f/otSDKStub.js" type="text/javascript">
+</script>
+<script type="text/javascript">
+                function OptanonWrapper() { }
+            </script>
+<script ccpa-opt-out-geo="US" ccpa-opt-out-ids="USP" ccpa-opt-out-lspa="false" charset="UTF-8" src="https://cdn.cookielaw.org/opt-out/otCCPAiab.js" type="text/javascript">
+</script>
+<script src="/assets/pizza-pie/javascripts/bundles/roma/rt-common.js?single"></script>
+<meta content="text/html; charset=utf-8" http-equiv="Content-Type"/>
+<meta content="ie=edge" http-equiv="x-ua-compatible"/>
+<meta content="width=device-width, initial-scale=1" name="viewport"/>
+<link href="https://www.rottentomatoes.com/assets/pizza-pie/images/favicon.ico" rel="shortcut icon" sizes="76x76" type="image/x-icon"/>
+<title>Avengers: Endgame - Movie Reviews | Rotten Tomatoes</title>
+<meta content="Rotten Tomatoes, home of the Tomatometer, is the most trusted measurement of quality for Movies &amp; TV. The definitive site for Reviews, Trailers, Showtimes, and Tickets" name="description"/>
+<link href="/m/avengers_endgame/reviews" rel="canonical"/>
+<meta content="" property="fb:app_id"/>
+<meta content="Rotten Tomatoes" property="og:site_name"/>
+<meta content="Avengers: Endgame - Movie Reviews" property="og:title"/>
+<meta content="Rotten Tomatoes, home of the Tomatometer, is the most trusted measurement of quality for Movies &amp; TV. The definitive site for Reviews, Trailers, Showtimes, and Tickets" property="og:description"/>
+<meta content="video.movie" property="og:type"/>
+<meta content="/m/avengers_endgame/reviews" property="og:url"/>
+<meta content="https://resizing.flixster.com/2yTtbYaljlzWgEhOCUTrH55jjfM=/206x305/v2/https://resizing.flixster.com/fC7nU6iTRQk02tS0SDS1ylx-G34=/ems.cHJkLWVtcy1hc3NldHMvbW92aWVzL2QxZjE5ZDgzLTRiY2MtNDFkYS04NWQ4LTRkYzc1ZTAwNWE2NC53ZWJw" property="og:image"/>
+<meta content="en_US" property="og:locale"/>
+<meta content="summary_large_image" name="twitter:card"/>
+<meta content="https://resizing.flixster.com/2yTtbYaljlzWgEhOCUTrH55jjfM=/206x305/v2/https://resizing.flixster.com/fC7nU6iTRQk02tS0SDS1ylx-G34=/ems.cHJkLWVtcy1hc3NldHMvbW92aWVzL2QxZjE5ZDgzLTRiY2MtNDFkYS04NWQ4LTRkYzc1ZTAwNWE2NC53ZWJw" name="twitter:image"/>
+<meta content="Avengers: Endgame - Movie Reviews" name="twitter:title"/>
+<meta content="Avengers: Endgame - Movie Reviews" name="twitter:text:title"/>
+<meta content="Rotten Tomatoes, home of the Tomatometer, is the most trusted measurement of quality for Movies &amp; TV. The definitive site for Reviews, Trailers, Showtimes, and Tickets" name="twitter:description"/>
+<meta content="@rottentomatoes" name="twitter:site"/>
+<!-- JSON+LD -->
+<script>
+                var dataLayer = dataLayer || [];
+                dataLayer.push({"webVersion":"node","rtVersion":3.1,"loggedInStatus":"","customerId":"","pageName":"rt | movies | reviews | Avengers: Endgame","titleType":"Movie","titleId":"7b2bcd9a-359f-3ffd-bbbd-abe9e5ce3f9e","titleName":"Avengers: Endgame","titleGenre":"Action|Adventure|Fantasy|Sci-Fi","lifeCycleWindow":""});
+            </script>
+<script id="mps-page-integration">
+                    window.mpscall = {"cag[score]":"94","cag[certified_fresh]":"0","cag[fresh_rotten]":"certified-fresh","cag[rating]":"PG-13","cag[release]":"2019","cag[movieshow]":"Avengers: Endgame","cag[genre]":"Action|Adventure|Fantasy|Sci-Fi","cag[urlid]":"avengers_endgame","cat":"movie|reviews","field[env]":"production","field[rtid]":"7b2bcd9a-359f-3ffd-bbbd-abe9e5ce3f9e","path":"/m/avengers_endgame/reviews","site":"rottentomatoes-web","title":"Avengers: Endgame","type":"webMovieReviews"};
+                    var mpsopts={'host':'mps.nbcuni.com', 'updatecorrelator':1};
+                    var mps=mps||{};mps._ext=mps._ext||{};mps._adsheld=[];mps._queue=mps._queue||{};mps._queue.mpsloaded=mps._queue.mpsloaded||[];mps._queue.mpsinit=mps._queue.mpsinit||[];mps._queue.gptloaded=mps._queue.gptloaded||[];mps._queue.adload=mps._queue.adload||[];mps._queue.adclone=mps._queue.adclone||[];mps._queue.adview=mps._queue.adview||[];mps._queue.refreshads=mps._queue.refreshads||[];mps.__timer=Date.now||function(){return+new Date};mps.__intcode="v2";if(typeof mps.getAd!="function")mps.getAd=function(adunit){if(typeof adunit!="string")return false;var slotid="mps-getad-"+adunit.replace(/\W/g,"");if(!mps._ext||!mps._ext.loaded){mps._queue.gptloaded.push(function(){typeof mps._gptfirst=="function"&&mps._gptfirst(adunit,slotid);mps.insertAd("#"+slotid,adunit)});mps._adsheld.push(adunit)}return'<div id="'+slotid+'" class="mps-wrapper" data-mps-fill-slot="'+adunit+'"></div>'};
+                </script>
+<script id="mps-load" src="//mps.nbcuni.com/fetch/ext/load-rottentomatoes-web.js?nowrite=2"></script>
+<link href="https://www.rottentomatoes.com/assets/pizza-pie/manifest/manifest.json" rel="manifest">
+<link href="https://www.rottentomatoes.com/assets/pizza-pie/head-assets/images/apple-touch-icon-60.jpg" rel="apple-touch-icon"/>
+<link href="https://www.rottentomatoes.com/assets/pizza-pie/head-assets/images/apple-touch-icon-152.jpg" rel="apple-touch-icon" sizes="152x152"/>
+<link href="https://www.rottentomatoes.com/assets/pizza-pie/head-assets/images/apple-touch-icon-167.jpg" rel="apple-touch-icon" sizes="167x167"/>
+<link href="https://www.rottentomatoes.com/assets/pizza-pie/head-assets/images/apple-touch-icon-180.jpg" rel="apple-touch-icon" sizes="180x180"/>
+<meta content="VPPXtECgUUeuATBacnqnCm4ydGO99reF-xgNklSbNbc" name="google-site-verification">
+<meta content="034F16304017CA7DCF45D43850915323" name="msvalidate.01">
+<meta content="#FA320A" name="theme-color"/>
+<!-- DNS prefetch -->
+<meta content="on" http-equiv="x-dns-prefetch-control"/>
+<link href="//www.rottentomatoes.com" rel="dns-prefetch"/>
+<link href="//www.rottentomatoes.com" rel="preconnect"/>
+<link as="style" href="/assets/pizza-pie/stylesheets/bundles/layouts/default.7b98fdd16e5.css" onload="this.onload=null;this.rel='stylesheet'" rel="preload"/>
+<link as="style" href="/assets/pizza-pie/stylesheets/bundles/pages/reviews.dc61c47ee87.css" onload="this.onload=null;this.rel='stylesheet'" rel="preload"/>
+<script>
+        !function(t){"use strict";t.loadCSS||(t.loadCSS=function(){});var e=loadCSS.relpreload={};if(e.support=function(){var e;try{e=t.document.createElement("link").relList.supports("preload")}catch(t){e=!1}return function(){return e}}(),e.bindMediaToggle=function(t){var e=t.media||"all";function a(){t.media=e}t.addEventListener?t.addEventListener("load",a):t.attachEvent&&t.attachEvent("onload",a),setTimeout(function(){t.rel="stylesheet",t.media="only x"}),setTimeout(a,3e3)},e.poly=function(){if(!e.support())for(var a=t.document.getElementsByTagName("link"),n=0;n<a.length;n++){var o=a[n];"preload"!==o.rel||"style"!==o.getAttribute("as")||o.getAttribute("data-loadcss")||(o.setAttribute("data-loadcss",!0),e.bindMediaToggle(o))}},!e.support()){e.poly();var a=t.setInterval(e.poly,500);t.addEventListener?t.addEventListener("load",function(){e.poly(),t.clearInterval(a)}):t.attachEvent&&t.attachEvent("onload",function(){e.poly(),t.clearInterval(a)})}"undefined"!=typeof exports?exports.loadCSS=loadCSS:t.loadCSS=loadCSS}("undefined"!=typeof global?global:this);
+        </script>
+<script>
+            window.RottenTomatoes = {};
+            window.RTLocals = {};
+            window.nunjucksPrecompiled = {};
+            window.__RT__ = {};
+        </script>
+<script src="https://cdn.jwplayer.com/libraries/U8MHzHHR.js"></script>
+<script src="https://sb.scorecardresearch.com/c2/plugins/streamingtag_plugin_jwplayer.js"></script>
+</meta></meta></link></head>
+<body class="body no-touch js-mptd-layout" data-adsglobalskintakeovermanager="body" data-searchresultsnavmanager="body">
+<user-activity-manager></user-activity-manager>
+<ad-unit-manager></ad-unit-manager>
+<auth-initiate-manager data-watchlistbuttonmanager="authInitiateManager:createAccount"></auth-initiate-manager>
+<auth-profile-manager data-authinitiatemanager="authProfileManager"></auth-profile-manager>
+<auth-validation-manager data-authinitiatemanager="authValidation"></auth-validation-manager>
+<overlay-base data-authinitiatemanager="overlayBase:close" data-pagepollsindexmanager="authOverlay:close" hidden="">
+<overlay-flows data-authinitiatemanager="overlayFlows" slot="content">
+<button aria-label="Close" class="auth-overlay__icon-button auth-overlay__icon-button--close" data-qa="close-overlay-btn" slot="close">
+<rt-icon icon="close" image=""></rt-icon>
+</button>
+</overlay-flows>
+</overlay-base>
+<notification-alert animate="" data-authinitiatemanager="authSuccess" hidden="">
+<rt-icon icon="check-circled"></rt-icon>
+<span>Signed in</span>
+</notification-alert>
+<div data-authinitiatemanager="authTemplates" id="auth-templates">
+<template id="cognito-loading" slot="screens">
+<div>
+<loading-spinner id="cognito-auth-loading-spinner"></loading-spinner>
+<style>
+            #cognito-auth-loading-spinner {
+                font-size: 2rem;
+                transform: translate(calc(100% - 1em), 250px);
+                width: 50%;
+            }
+        </style>
+</div>
+</template>
+<template id="login-check-email-screen" slot="screens">
+<login-check-email-screen data-qa="login-check-email-screen" email="user@email.com">
+<rt-text class="note-text" size="1" slot="noteText">
+      Please open the email link from the same browser you initiated the change email process from.
+    </rt-text>
+<rt-text size="0.875" slot="gotEmailMessage">
+      Didn't you get the email?
+    </rt-text>
+<rt-link context="label" size="0.875" slot="resendEmailLink">Resend email</rt-link>
+<rt-link context="label" href="/reset-client" size="0.875" slot="troubleLoginLink">Having trouble logging in?</rt-link>
+<rt-text class="terms-and-policies" size="0.75" slot="termsAndPolicies">
+      By joining, you agree to the 
+      <rt-link data-qa="auth-signup-screen-terms-policies-link" href="/policies/terms-and-policies" target="_blank">Terms and Policies</rt-link>     
+      and <rt-link data-qa="auth-signup-screen-privacy-policy-link" href="https://www.nbcuniversal.com/fandango-privacy-policy" target="_blank">Privacy Policy</rt-link>
+      and to receive email from the
+      <rt-link href="https://www.fandango.com/about-us" target="_blank">Fandango Media Brands</rt-link>.
+    </rt-text>
+</login-check-email-screen>
+</template>
+<template id="login-email-change-screen" slot="screens">
+<login-email-change-screen data-qa="login-email-change-screen" email="user@email.com">
+<input-label class="new-email-input" slot="newEmailInput" state="default">
+<label for="newEmail" slot="label">Enter new email</label>
+<input autocomplete="off" name="newEmail" placeholder="Enter new email" slot="input" type="text"/>
+</input-label>
+<rt-button disabled="" shape="pill" slot="submitButton">Submit</rt-button>
+<rt-text class="terms-and-policies" size="0.75" slot="termsAndPolicies">
+      By joining, you agree to the 
+      <rt-link data-qa="auth-signup-screen-terms-policies-link" href="/policies/terms-and-policies" target="_blank">Terms and Policies</rt-link>     
+      and <rt-link data-qa="auth-signup-screen-privacy-policy-link" href="https://www.nbcuniversal.com/fandango-privacy-policy" target="_blank">Privacy Policy</rt-link>
+      and to receive email from the
+      <rt-link href="https://www.fandango.com/about-us" target="_blank">Fandango Media Brands</rt-link>.
+    </rt-text>
+</login-email-change-screen>
+</template>
+<template id="login-error-screen" slot="screens">
+<login-error-screen data-qa="login-error">
+<rt-text context="heading" size="1.5" slot="header">
+            Something went wrong...
+        </rt-text>
+<rt-text context="label" size="1" slot="description1">
+            Please try again. 
+        </rt-text>
+<img slot="image" src="/assets/pizza-pie/images/icons/cognito-error.400cc7e0474.svg"/>
+<rt-text context="label" hidden="" size="1" slot="description2"></rt-text>
+<rt-link context="label" hidden="" size="0.875" slot="ctaLink">Retry</rt-link>
+</login-error-screen>
+</template>
+<template id="login-enter-password-screen" slot="screens">
+<login-enter-password-screen data-qa="login-enter-password-screen">
+<rt-text size="1.5" slot="title" style="--fontWeight: 700;">
+      Welcome back!
+    </rt-text>
+<rt-text slot="username">
+      username@email.com
+    </rt-text>
+<input-label slot="inputPassword" state="default">
+<label for="pass" slot="label">Enter password</label>
+<input autocomplete="off" id="pass" placeholder="Enter password" slot="input" type="password"/>
+</input-label>
+<rt-button disabled="" shape="pill" slot="continueButton">Continue</rt-button>
+<rt-button shape="pill" slot="emailLoginButton" theme="light">
+      Send email to verify
+    </rt-button>
+<rt-link slot="forgotPasswordLink" theme="light">Forgot password</rt-link>
+<rt-text size="0.75" slot="termsAndPolicies">
+      By joining, you agree to the 
+      <rt-link data-qa="auth-signup-screen-terms-policies-link" href="/policies/terms-and-policies" target="_blank">Terms and Policies</rt-link>     
+      and <rt-link data-qa="auth-signup-screen-privacy-policy-link" href="https://www.nbcuniversal.com/fandango-privacy-policy" target="_blank">Privacy Policy</rt-link>
+      and to receive email from the
+      <rt-link href="https://www.fandango.com/about-us" target="_blank">Fandango Media Brands</rt-link>.
+    </rt-text>
+</login-enter-password-screen>
+</template>
+<template id="login-change-success-screen" slot="screens">
+<login-change-success-screen data-qa="login-create-success-screen">
+<rt-text size="1.5" slot="message" style="--fontWeight: 700;">Email change successful</rt-text>
+<rt-text slot="submessage">You are signed out for your security.  Please sign in again.</rt-text>
+<img height="105" slot="icon" src="/assets/pizza-pie/images/icons/cognito-success.3a3d5f32fab.svg" width="111"/>
+</login-change-success-screen>
+</template>
+<template id="login-start-screen" slot="screens">
+<login-start-screen data-qa="login-start-screen">
+<input-label slot="inputEmail" state="default">
+<label for="login-email-input" slot="label">Email address</label>
+<input autocomplete="username" id="login-email-input" placeholder="Email address" slot="input" type="text"/>
+</input-label>
+<rt-button disabled="" shape="pill" slot="emailLoginButton">Continue</rt-button>
+<rt-button shape="pill" slot="googleLoginButton" theme="light">
+<div class="google-login-btn-content">
+<img height="16px" src="/assets/pizza-pie/images/vendor/google/google_logo.28d9eb28faa.svg" width="16px"/>
+        Continue with Google
+      </div>
+</rt-button>
+<rt-link class="reset-link" context="label" size="0.875" slot="resetLink">Having trouble logging in?</rt-link>
+<rt-text class="terms-and-policies" size="0.75" slot="termsAndPolicies">
+      By continuing, you agree to the <rt-link data-qa="auth-signup-screen-terms-policies-link" href="/policies/terms-and-policies" target="_blank">Terms and Policies</rt-link> and
+      the <rt-link data-qa="auth-signup-screen-privacy-policy-link" href="https://www.nbcuniversal.com/fandango-privacy-policy" target="_blank">Privacy Policy</rt-link> and to receive email from 
+      <rt-link href="https://www.fandango.com/about-us" target="_blank">Fandango Media Brands</rt-link>.
+    </rt-text>
+</login-start-screen>
+</template>
+<template id="login-success-screen" slot="screens">
+<login-success-screen data-qa="login-success-screen">
+<rt-text size="1.5" slot="status" style="--fontWeight: 700;">
+      Login successful!
+    </rt-text>
+<img height="105" slot="icon" src="/assets/pizza-pie/images/icons/cognito-success.3a3d5f32fab.svg" width="111"/>
+</login-success-screen>
+</template>
+<template id="login-verifying-email-screen" slot="screens">
+<login-verifying-email-screen data-qa="login-verifying-email-screen">
+<img alt="email" slot="icon" src="/assets/pizza-pie/images/icons/cognito-auth-verify.e74a69e9a77.svg"/>
+<rt-text slot="status">Verifying your email...</rt-text>
+<rt-link context="label" href="/?authFlowScreen=loginStartScreen" size="0.875" slot="retryLink" style="--fontWeight: 500;">
+      Retry
+    </rt-link>
+</login-verifying-email-screen>
+</template>
+<template id="cognito-signup-form" slot="screens">
+<auth-signup-screen data-qa="auth-signup-screen">
+<h2 class="cognito-signup-form__header" data-qa="auth-signup-screen-title" slot="header">Log in or sign up for Rotten Tomatoes</h2>
+<rt-button class="cognito-signup-form__option" data-qa="auth-signup-screen-google-btn" slot="signup-option" theme="light" value="google">
+<div class="cognito-signup-form__option__container">
+<span class="cognito-signup-form__option__icon cognito-signup-form__option__icon--google"></span>
+<span class="cognito-signup-form__option__text">Continue with Google</span>
+</div>
+</rt-button>
+<rt-button class="cognito-signup-form__option" data-qa="auth-signup-screen-email-btn" slot="signup-option" theme="light" value="email">
+<div class="cognito-signup-form__option__container">
+<rt-icon class="cognito-signup-form__option__icon cognito-signup-form__option__icon--mail" icon="mail" image=""></rt-icon>
+<span class="cognito-signup-form__option__text">Continue with Email</span>
+</div>
+</rt-button>
+<input-label-deprecated slot="email">
+<label class="auth-form__control__label" for="cognito-email-input" slot="label">Email</label>
+<input data-qa="auth-signup-screen-email" id="cognito-email-input" slot="input" type="email"/>
+</input-label-deprecated>
+<div slot="info">
+<div class="no-password-container">
+<rt-badge>New</rt-badge>
+<span class="no-password">Where is the password field?</span>
+<tool-tip-deprecated class="cognito-signup-form__tooltip" description="Rotten Tomatoes now offers passwordless authentication for all user accounts, making it easier for you to access your information. Simply enter the email address you previously used and hit continue to complete your log-in." nomobilefooter="" slot="tooltip" title="Where is the password field?">
+<button class="button--link" slot="tool-tip-btn">
+<rt-icon icon="question-ringed" image=""></rt-icon>
+</button>
+</tool-tip-deprecated>
+</div>
+</div>
+<button class="auth-form__button" data-qa="auth-signup-screen-continue-btn" slot="continue">Continue</button>
+<p class="cognito-signup-form-help" slot="help">
+<a data-qa="auth-signup-screen-reset-client-link" href="/reset-client">Trouble logging in?</a>
+</p>
+<p class="cognito-signup-form__terms-and-policies" slot="terms-and-policies">
+        By continuing, you agree to the <a data-qa="auth-signup-screen-privacy-policy-link" href="https://www.nbcuniversal.com/fandango-privacy-policy" rel="noopener" target="_blank">Privacy Policy</a> and
+        the <a data-qa="auth-signup-screen-terms-policies-link" href="/policies/terms-and-policies" rel="noopener" target="_blank">Terms and Policies</a>, and to receive email from the <a href="https://www.fandango.com/about-us" rel="noopener" target="_blank">Fandango Media Brands</a>.
+    </p>
+</auth-signup-screen>
+</template>
+<template id="cognito-name-form-us" slot="screens">
+<auth-name-screen data-qa="auth-name-screen">
+<input-label-deprecated data-qa="auth-name-screen-firstname-input" slot="firstName">
+<label class="auth-form__control__label" for="cognito-first-name-input" slot="label">First name (Required)</label>
+<input data-qa="auth-name-screen-first-name" id="cognito-first-name-input" slot="input"/>
+</input-label-deprecated>
+<input-label-deprecated data-qa="auth-name-screen-lastname-input" slot="lastName">
+<label class="auth-form__control__label" for="cognito-last-name-input" slot="label">Last name (Required)</label>
+<input data-qa="auth-name-screen-last-name" id="cognito-last-name-input" slot="input"/>
+</input-label-deprecated>
+<rt-button class="auth-form__button" slot="createAccount">Create my account</rt-button>
+<p class="cognito-signup-form__terms-and-policies" slot="termsAndPolicies">
+      By creating an account, you agree to the
+      <a data-qa="auth-name-screen-privacy-policy-link" href="https://www.nbcuniversal.com/fandango-privacy-policy" rel="noopener" target="_blank"> Privacy Policy </a>
+      and the<br/>
+<a data-qa="auth-name-screen-terms-policies-link" href="/policies/terms-and-policies" rel="noopener" target="_blank"> Terms and Policies</a>,
+      and to receive email from Rotten Tomatoes and to receive email from the
+      <a data-qa="auth-name-screen-fandango-media-link" href="https://www.fandango.com/about-us" rel="noopener" target="_blank"> Fandango Media Brands</a>.
+    </p>
+</auth-name-screen>
+</template>
+<template id="cognito-name-form-foreign" slot="screens">
+<auth-name-screen data-qa="auth-name-screen">
+<input-label-deprecated data-qa="auth-name-screen-firstname-input" slot="firstName">
+<label class="auth-form__control__label" for="cognito-first-name-input" slot="label">First name (Required)</label>
+<input data-qa="auth-name-screen-first-name" id="cognito-first-name-input" slot="input"/>
+</input-label-deprecated>
+<input-label-deprecated data-qa="auth-name-screen-lastname-input" slot="lastName">
+<label class="auth-form__control__label" for="cognito-last-name-input" slot="label">Last name (Required)</label>
+<input data-qa="auth-name-screen-last-name" id="cognito-last-name-input" slot="input"/>
+</input-label-deprecated>
+<rt-button class="auth-form__button" slot="createAccount">Create my account</rt-button>
+<p class="cognito-signup-form__terms-and-policies" slot="termsAndPolicies">
+      By creating an account, you agree to the
+      <a data-qa="auth-name-screen-privacy-policy-link" href="https://www.nbcuniversal.com/fandango-privacy-policy" rel="noopener" target="_blank"> Privacy Policy </a>
+      and the<br/>
+<a data-qa="auth-name-screen-terms-policies-link" href="/policies/terms-and-policies" rel="noopener" target="_blank"> Terms and Policies</a>
+      , and to receive email from Rotten Tomatoes.
+    </p>
+</auth-name-screen>
+</template>
+<template id="cognito-checkemail" slot="screens">
+<auth-checkemail-screen data-qa="auth-check-email-screen">
+<span class="cognito-check-email__icon--email" slot="email-icon"></span>
+<span class="cognito-check-email__icon--mobile" slot="mobile-icon"></span>
+<button class="text-button" data-qa="auth-check-email-screen-learn-more-link" slot="learn-more" tabindex="0">LEARN MORE</button>
+<a data-qa="auth-check-email-screen-help-link" href="/help_desk" slot="help" tabindex="0" target="_blank">HELP</a>
+</auth-checkemail-screen>
+</template>
+<template id="cognito-learn-more" slot="screens">
+<auth-learn-more-screen data-qa="auth-learn-more-screen">
+<button class="auth-overlay__icon-button auth-overlay__icon-button--back" slot="back">
+<rt-icon icon="left-arrow-stem" image=""></rt-icon>
+</button>
+</auth-learn-more-screen>
+</template>
+<template id="cognito-error" slot="screens">
+<auth-error-screen data-qa="auth-error-screen">
+<h2 class="cognito-error__heading" data-qa="auth-error-screen-title" slot="heading">
+<rt-icon class="cognito-error__icon--exclamation-circled" icon="exclamation-circled" image=""></rt-icon>
+<span class="js-cognito-error-heading-txt">Email not verified</span>
+</h2>
+<p class="js-cognito-error-message cognito-error__error-message" data-qa="auth-error-screen-message" slot="error-message">
+<!-- error message is set from auth-error-screen WC-->
+</p>
+<p class="js-cognito-error-code cognito-error__error-message" data-qa="auth-error-screen-code" slot="error-code">
+<!-- error code is set from auth-error-screen WC-->
+</p>
+<rt-button class="cognito-error__try-again-btn" slot="tryAgainBtn"><span class="cognito-error__btn-text" data-qa="auth-error-screen-try-again-btn">TRY AGAIN</span></rt-button>
+<rt-button class="cognito-error__cancel-btn" slot="cancelBtn" theme="light"><span class="cognito-error__btn-text" data-qa="auth-error-screen-cancel-btn">CANCEL</span></rt-button>
+</auth-error-screen>
+</template>
+<template id="cognito-opt-in-us" slot="screens">
+<auth-optin-screen data-qa="auth-opt-in-screen">
+<div slot="newsletterText">
+<h2 class="cognito-optin-form__header unset">Let's keep in touch!</h2>
+</div>
+<img alt="Rotten Tomatoes Newsletter" class="image" slot="image" src="https://images.fandango.com/cms/assets/97c33f00-313f-11ee-9aaf-6762c75465cf--newsletter.png"/>&gt;
+    <h2 class="subTitle unset" slot="subTitle">Sign up for the Rotten Tomatoes newsletter to get weekly updates on:</h2>
+<ul slot="options">
+<li class="icon-item">Upcoming Movies and TV shows</li>
+<li class="icon-item">Rotten Tomatoes Podcast</li>
+<li class="icon-item">Media News + More</li>
+</ul>
+<rt-button data-qa="auth-opt-in-screen-opt-in-btn" slot="optInButton">
+      Sign me up
+    </rt-button>
+<rt-button class="button--outline" data-qa="auth-opt-in-screen-opt-out-btn" slot="optOutButton">
+      No thanks
+    </rt-button>
+<p slot="footNote">
+      By clicking "Sign Me Up," you are agreeing to receive occasional emails and communications from Fandango Media (Fandango, Vudu, and Rotten Tomatoes) and consenting to Fandango's 
+      <a class="optin-link" data-qa="auth-name-screen-privacy-policy-link" href="https://www.nbcuniversal.com/fandango-privacy-policy" rel="noopener" target="_blank">Privacy Policy</a>
+      and 
+      <a class="optin-link" data-qa="auth-name-screen-privacy-policy-link" href="/policies/terms-and-policies" rel="noopener" target="_blank">Terms and Policies</a>.
+      Please allow 10 business days for your account to reflect your preferences.
+    </p>
+</auth-optin-screen>
+</template>
+<template id="cognito-opt-in-foreign" slot="screens">
+<auth-optin-screen data-qa="auth-opt-in-screen">
+<div slot="newsletterText">
+<h2 class="cognito-optin-form__header unset">Let's keep in touch!</h2>
+</div>
+<img alt="Rotten Tomatoes Newsletter" class="image" slot="image" src="https://images.fandango.com/cms/assets/97c33f00-313f-11ee-9aaf-6762c75465cf--newsletter.png"/>&gt;
+    <h2 class="subTitle unset" slot="subTitle">Sign up for the Rotten Tomatoes newsletter to get weekly updates on:</h2>
+<ul slot="options">
+<li class="icon-item">Upcoming Movies and TV shows</li>
+<li class="icon-item">Rotten Tomatoes Podcast</li>
+<li class="icon-item">Media News + More</li>
+</ul>
+<rt-button data-qa="auth-opt-in-screen-opt-in-btn" slot="optInButton">
+      Sign me up
+    </rt-button>
+<rt-button class="button--outline" data-qa="auth-opt-in-screen-opt-out-btn" slot="optOutButton">
+      No thanks
+    </rt-button>
+</auth-optin-screen>
+</template>
+<template id="cognito-opt-in-success" slot="screens">
+<auth-verify-screen>
+<rt-icon icon="check-circled" slot="icon"></rt-icon>
+<p class="h3" slot="status">OK, got it!</p>
+</auth-verify-screen>
+</template>
+</div>
+<div id="emptyPlaceholder"></div>
+<script async="" src="//assets.adobedtm.com/launch-EN549327edc13e414a9beb5d61bfd9aac6.min.js"></script>
+<div class="container rt-layout__body">
+<a class="skip-link" href="#main-page-content">Skip to Main Content</a>
+<div id="header_and_leaderboard">
+<div class="leaderboard_wrapper" id="top_leaderboard_wrapper">
+<ad-unit adjustheight="" hidden="" unitdisplay="desktop" unittype="topbanner">
+<div slot="adInject"></div>
+</ad-unit>
+<ad-unit hidden="" unitdisplay="mobile" unittype="mbanner">
+<div slot="adInject"></div>
+</ad-unit>
+</div>
+</div>
+<rt-header-manager></rt-header-manager>
+<rt-header aria-label="navigation bar" class="navbar" data-adsglobalnavtakeovermanager="header" data-qa="header-nav-bar" id="header-main" skeleton="panel">
+<a class="logo-wrap" data-adsglobalnavtakeovermanager="logoLink" data-searchresultsnavmanager="rtNavLogo" href="/" id="navbar" slot="logo">
+<img alt="Rotten Tomatoes" data-adsglobalnavtakeovermanager="logo" data-qa="header-logo" fetchpriority="high" src="/assets/pizza-pie/images/rtlogo.9b892cff3fd.png">
+<div class="hide">
+<ad-unit hidden="" unitdisplay="desktop,mobile" unittargeting="ploc=rtlogo;" unittype="logorepeat">
+<div slot="adInject"></div>
+</ad-unit>
+</div>
+</img></a>
+<search-results-nav-manager></search-results-nav-manager>
+<search-results-nav data-adobe-id="global-nav-search" data-searchresultsnavmanager="search" skeleton="chip" slot="search">
+<search-results-controls data-searchresultsnavmanager="searchControls" slot="controls">
+<input aria-label="Search" data-adsglobalnavtakeovermanager="searchInput" data-qa="search-input" data-searchresultsnavmanager="inputText:click,input,keydown" placeholder="Search" slot="search-input" type="text">
+<rt-button class="search-clear" data-adsglobalnavtakeovermanager="searchClearBtn" data-qa="search-clear" data-searchresultsnavmanager="clearBtn:click" size="0.875" slot="search-clear" theme="transparent">
+<rt-icon icon="close"></rt-icon>
+</rt-button>
+<rt-link aria-label="Submit search" class="search-submit" data-adsglobalnavtakeovermanager="searchSubmitBtn" data-qa="search-submit" data-searchresultsnavmanager="submitBtn:click" href="/search" size="0.875" slot="search-submit">
+<rt-icon icon="search"></rt-icon>
+</rt-link>
+<rt-button class="search-cancel" data-adsglobalnavtakeovermanager="searchCancelBtn" data-qa="search-cancel" data-searchresultsnavmanager="cancelBtn:click" size="0.875" slot="search-cancel" theme="transparent">
+        Cancel
+      </rt-button>
+</input></search-results-controls>
+<search-results aria-expanded="false" class="hide" data-searchresultsnavmanager="searchResults" slot="results">
+</search-results>
+</search-results-nav>
+<ul slot="nav-links">
+<li>
+<a data-adsglobalnavtakeovermanager="text" data-qa="header:link-whats-tmeter" href="/about">
+        About Rotten Tomatoes®
+      </a>
+</li>
+<li>
+<a data-adsglobalnavtakeovermanager="text" data-qa="header:link-critics-home" href="/critics">
+        Critics
+      </a>
+</li>
+<li data-rtheadermanager="loginLink">
+<ul>
+<li>
+<button class="js-cognito-signin button--link" data-adsglobalnavtakeovermanager="text" data-authinitiatemanager="btnSignIn:click" data-qa="header:login-btn" id="masthead-show-login-btn">
+            Login/signup
+          </button>
+</li>
+</ul>
+</li>
+<li class="hide" data-qa="header:user" data-rtheadermanager="userItem:keydown,keyup,mouseenter">
+<a class="masthead-user-link" data-qa="user-profile-link" data-rtheadermanager="navUserlink:focus" rel="nofollow">
+<img data-qa="user-profile-thumb" data-rtheadermanager="navUserImg"/>
+<p data-adsglobalnavtakeovermanager="text" data-qa="user-profile-name" data-rtheadermanager="navUserFirstName"></p>
+<rt-icon data-adsglobalnavtakeovermanager="text" icon="down-dir" image="">
+</rt-icon>
+</a>
+<rt-header-user-info class="hide" data-rtheadermanager="userInfo:focusout,mouseleave" data-useractivitymanager="userInfo">
+<a data-qa="user-stats-profile-pic" href="" rel="nofollow" slot="imageExpanded" tabindex="-1">
+<img alt="" src="" width="40"/>
+</a>
+<a class="username" data-qa="user-stats-name" href="" rel="nofollow" slot="fullName"></a>
+<a class="wts-count-block" data-qa="user-stats-wts" href="" rel="nofollow" slot="wts">
+<rt-icon data-qa="user-stats-ratings-count" icon="plus"></rt-icon>
+<span class="count" data-qa="user-stats-wts-count"></span>
+           Wants to See
+        </a>
+<a class="rating-count-block" data-qa="user-stats-ratings" href="" rel="nofollow" slot="rating">
+<rt-icon data-qa="user-stats-ratings-count" icon="star"></rt-icon>
+<span class="count"></span>
+           Ratings
+        </a>
+<a class="dropdown-link" data-qa="user-stats-profile-link" href="" rel="nofollow" slot="profileLink">Profile</a>
+<a class="dropdown-link" data-qa="user-stats-account-link" href="/user/account" rel="nofollow" slot="accountLink">Account</a>
+<a class="dropdown-link" data-qa="user-stats-logout-link" data-rtheadermanager="logoutLink:click" href="#logout" slot="logoutLink">Log Out</a>
+</rt-header-user-info>
+</li>
+</ul>
+<rt-header-nav slot="nav-dropdowns">
+<rt-header-nav-item data-qa="masthead:movies-dvds" slot="movies">
+<a class="unset" data-adsglobalnavtakeovermanager="text" data-qa="masthead:movies-dvds-link" href="/browse/movies_in_theaters/sort:popular" slot="link">
+        Movies
+      </a>
+<rt-header-nav-item-dropdown aria-expanded="false" data-qa="movies-menu" slot="dropdown">
+<rt-header-nav-item-dropdown-list data-qa="header-movies-in-theaters" slot="column">
+<p class="h4" data-qa="movies-in-theaters-main-link" slot="title"><a class="unset" href="/browse/movies_in_theaters/sort:popular">Movies in theaters</a></p>
+<ul slot="links">
+<li data-qa="in-theaters-item">
+<a data-qa="opening-this-week-link" href="/browse/movies_in_theaters/sort:newest">Opening This Week</a>
+</li>
+<li data-qa="in-theaters-item">
+<a data-qa="top-box-office-link" href="/browse/movies_in_theaters/sort:top_box_office">Top Box Office</a>
+</li>
+<li data-qa="in-theaters-item">
+<a data-qa="coming-soon-link" href="/browse/movies_coming_soon/">Coming Soon to Theaters</a>
+</li>
+<li data-qa="in-theaters-item">
+<a data-qa="certified-fresh-link" href="/browse/movies_in_theaters/critics:certified_fresh~sort:popular">Certified Fresh Movies</a>
+</li>
+</ul>
+</rt-header-nav-item-dropdown-list>
+<rt-header-nav-item-dropdown-list data-qa="header-on-dvd-streaming" slot="column">
+<p class="h4" data-qa="dvd-streaming-main-link" slot="title"><a class="unset" href="/browse/movies_at_home">Movies at Home</a></p>
+<ul slot="links">
+<li data-qa="movies-at-home-item">
+<a data-qa="fandango-at-home-link" href="/browse/movies_at_home/affiliates:fandango-at-home">Fandango at Home</a>
+</li>
+<li data-qa="movies-at-home-item">
+<a data-qa="peacock-link" href="/browse/movies_at_home/affiliates:peacock">Peacock</a>
+</li>
+<li data-qa="movies-at-home-item">
+<a data-qa="netflix-link" href="/browse/movies_at_home/affiliates:netflix">Netflix</a>
+</li>
+<li data-qa="movies-at-home-item">
+<a data-qa="apple-tv-link" href="/browse/movies_at_home/affiliates:apple-tv-plus">Apple TV+</a>
+</li>
+<li data-qa="movies-at-home-item">
+<a data-qa="prime-video-link" href="/browse/movies_at_home/affiliates:prime-video">Prime Video</a>
+</li>
+<li data-qa="movies-at-home-item">
+<a data-qa="most-popular-streaming-movies-link" href="/browse/movies_at_home/sort:popular">Most Popular Streaming movies</a>
+</li>
+<li data-qa="movies-at-home-item">
+<a data-qa="certified-fresh-movies-link" href="/browse/movies_at_home/critics:certified_fresh">Certified Fresh movies</a>
+</li>
+<li data-qa="movies-at-home-item">
+<a data-qa="browse-all-link" href="/browse/movies_at_home">Browse all</a>
+</li>
+</ul>
+</rt-header-nav-item-dropdown-list>
+<rt-header-nav-item-dropdown-list data-qa="header-movies-more" slot="column">
+<p class="h4" slot="title">More</p>
+<ul slot="links">
+<li data-qa="what-to-watch-item">
+<a class="what-to-watch" data-qa="what-to-watch-link" href="https://editorial.rottentomatoes.com/rt-hub/what-to-watch">What to Watch<rt-badge>New</rt-badge></a>
+</li>
+</ul>
+</rt-header-nav-item-dropdown-list>
+<rt-header-nav-item-dropdown-list cfp="" slot="column">
+<p class="h4" slot="title">Certified fresh picks</p>
+<ul class="cfp-wrap" data-curation="rt-nav-list-cf-picks" data-qa="header-certified-fresh-picks" slot="links">
+<li data-qa="cert-fresh-item">
+<a class="cfp-tile" data-qa="cert-fresh-link" href="/m/mickey_17">
+<tile-dynamic data-qa="tile">
+<rt-img alt="Mickey 17 poster image" loading="lazy" slot="image" src="https://resizing.flixster.com/21W1ZSeVuMpI_1JZDKTjq9iaCwk=/206x305/v2/https://resizing.flixster.com/CFXfXMsowJVQX3uZguoeWjgrB3o=/fit-in/180x240/v2/https://resizing.flixster.com/1OiUfykO45X98oT74J71RvidMxA=/ems.cHJkLWVtcy1hc3NldHMvbW92aWVzL2ExNDlhNzE2LTFlODMtNGMyNi04ZWY1LTNlYmY5N2ZmYWJhNy5qcGc="></rt-img>
+<div data-track="scores" slot="caption">
+<div class="score-wrap">
+<score-icon-critics certified="" sentiment="positive" size="1"></score-icon-critics>
+<rt-text class="critics-score" context="label" size="1">77%</rt-text>
+</div>
+<span class="p--small">Mickey 17</span>
+<span class="sr-only">Link to Mickey 17</span>
+</div>
+</tile-dynamic>
+</a>
+</li>
+<li data-qa="cert-fresh-item">
+<a class="cfp-tile" data-qa="cert-fresh-link" href="/m/my_dead_friend_zoe">
+<tile-dynamic data-qa="tile">
+<rt-img alt="My Dead Friend Zoe poster image" loading="lazy" slot="image" src="https://resizing.flixster.com/wihHNwcpYB00_eFkFEQMkvJlDPU=/206x305/v2/https://resizing.flixster.com/lRPEbjdTLikpdWBK_gwHp2UTAqE=/fit-in/180x240/v2/https://resizing.flixster.com/Ow28GupE_D2lOF4rQh1Rn87VuHg=/ems.cHJkLWVtcy1hc3NldHMvbW92aWVzL2YxOTIzZWY4LWZiN2UtNDdhMC1iYjIzLThkYzc1MGM2YTkwNC5qcGc="></rt-img>
+<div data-track="scores" slot="caption">
+<div class="score-wrap">
+<score-icon-critics certified="" sentiment="positive" size="1"></score-icon-critics>
+<rt-text class="critics-score" context="label" size="1">95%</rt-text>
+</div>
+<span class="p--small">My Dead Friend Zoe</span>
+<span class="sr-only">Link to My Dead Friend Zoe</span>
+</div>
+</tile-dynamic>
+</a>
+</li>
+<li data-qa="cert-fresh-item">
+<a class="cfp-tile" data-qa="cert-fresh-link" href="/m/last_breath_2025">
+<tile-dynamic data-qa="tile">
+<rt-img alt="Last Breath poster image" loading="lazy" slot="image" src="https://resizing.flixster.com/rOACad3BpRO92z1j5PV3DxVeaPM=/206x305/v2/https://resizing.flixster.com/b1HTK_azzbyePGrjNn1dIQfTSnM=/fit-in/180x240/v2/https://resizing.flixster.com/a2R617LgmOW6sypCw_2rlWlz2-M=/ems.cHJkLWVtcy1hc3NldHMvbW92aWVzL2IxMmRhMDFkLTA2ZDUtNGUyNS1hOGE0LTQzZTdjNzAwNDgzMC5qcGc="></rt-img>
+<div data-track="scores" slot="caption">
+<div class="score-wrap">
+<score-icon-critics certified="" sentiment="positive" size="1"></score-icon-critics>
+<rt-text class="critics-score" context="label" size="1">78%</rt-text>
+</div>
+<span class="p--small">Last Breath</span>
+<span class="sr-only">Link to Last Breath</span>
+</div>
+</tile-dynamic>
+</a>
+</li>
+</ul>
+</rt-header-nav-item-dropdown-list>
+</rt-header-nav-item-dropdown>
+</rt-header-nav-item>
+<rt-header-nav-item data-qa="masthead:tv" slot="tv">
+<a class="unset" data-adsglobalnavtakeovermanager="text" data-qa="masthead:tv-link" href="/browse/tv_series_browse/sort:popular" slot="link">
+        Tv shows
+      </a>
+<rt-header-nav-item-dropdown aria-expanded="false" data-qa="tv-menu" slot="dropdown">
+<rt-header-nav-item-dropdown-list data-qa="header-tv-list1" slot="column">
+<p class="h4" data-curation="rt-hp-text-list-3" slot="title">
+              New TV Tonight
+            </p>
+<ul class="score-list-wrap" slot="links">
+<li data-qa="list-item">
+<a class="score-list-item" data-qa="list-item-link" href="/tv/the_righteous_gemstones/s04">
+<div class="score-wrap">
+<score-icon-critics certified="false" sentiment="positive" size="1"></score-icon-critics>
+<rt-text class="critics-score" context="label" size="1" style="--lineHeight: 1; --letterSpacing: 0.016em;">100%</rt-text>
+</div>
+<span>
+        
+            The Righteous Gemstones: Season 4
+        
+    </span>
+</a>
+</li>
+<li data-qa="list-item">
+<a class="score-list-item" data-qa="list-item-link" href="/tv/dark_winds/s03">
+<div class="score-wrap">
+<score-icon-critics certified="false" sentiment="positive" size="1"></score-icon-critics>
+<rt-text class="critics-score" context="label" size="1" style="--lineHeight: 1; --letterSpacing: 0.016em;">100%</rt-text>
+</div>
+<span>
+        
+            Dark Winds: Season 3
+        
+    </span>
+</a>
+</li>
+<li data-qa="list-item">
+<a class="score-list-item" data-qa="list-item-link" href="/tv/adolescence/s01">
+<div class="score-wrap">
+<score-icon-critics certified="false" sentiment="positive" size="1"></score-icon-critics>
+<rt-text class="critics-score" context="label" size="1" style="--lineHeight: 1; --letterSpacing: 0.016em;">100%</rt-text>
+</div>
+<span>
+        
+            Adolescence: Season 1
+        
+    </span>
+</a>
+</li>
+<li data-qa="list-item">
+<a class="score-list-item" data-qa="list-item-link" href="/tv/dope_thief/s01">
+<div class="score-wrap">
+<score-icon-critics certified="false" sentiment="positive" size="1"></score-icon-critics>
+<rt-text class="critics-score" context="label" size="1" style="--lineHeight: 1; --letterSpacing: 0.016em;">82%</rt-text>
+</div>
+<span>
+        
+            Dope Thief: Season 1
+        
+    </span>
+</a>
+</li>
+<li data-qa="list-item">
+<a class="score-list-item" data-qa="list-item-link" href="/tv/the_wheel_of_time/s03">
+<div class="score-wrap">
+<score-icon-critics certified="false" sentiment="positive" size="1"></score-icon-critics>
+<rt-text class="critics-score" context="label" size="1" style="--lineHeight: 1; --letterSpacing: 0.016em;">83%</rt-text>
+</div>
+<span>
+        
+            The Wheel of Time: Season 3
+        
+    </span>
+</a>
+</li>
+<li data-qa="list-item">
+<a class="score-list-item" data-qa="list-item-link" href="/tv/am_i_being_unreasonable/s02">
+<div class="score-wrap">
+<score-icon-critics certified="false" sentiment="empty" size="1"></score-icon-critics>
+<rt-text class="critics-score-empty" context="label" size="1" style="--textColor: var(--grayLight4); --lineHeight: 1; --letterSpacing: 0.2em;">--</rt-text>
+</div>
+<span>
+        
+            Am I Being Unreasonable?: Season 2
+        
+    </span>
+</a>
+</li>
+<li data-qa="list-item">
+<a class="score-list-item" data-qa="list-item-link" href="/tv/long_bright_river/s01">
+<div class="score-wrap">
+<score-icon-critics certified="false" sentiment="empty" size="1"></score-icon-critics>
+<rt-text class="critics-score-empty" context="label" size="1" style="--textColor: var(--grayLight4); --lineHeight: 1; --letterSpacing: 0.2em;">--</rt-text>
+</div>
+<span>
+        
+            Long Bright River: Season 1
+        
+    </span>
+</a>
+</li>
+<li data-qa="list-item">
+<a class="score-list-item" data-qa="list-item-link" href="/tv/everybodys_live_with_john_mulaney/s01">
+<div class="score-wrap">
+<score-icon-critics certified="false" sentiment="empty" size="1"></score-icon-critics>
+<rt-text class="critics-score-empty" context="label" size="1" style="--textColor: var(--grayLight4); --lineHeight: 1; --letterSpacing: 0.2em;">--</rt-text>
+</div>
+<span>
+        
+            Everybody's Live with John Mulaney: Season 1
+        
+    </span>
+</a>
+</li>
+<li data-qa="list-item">
+<a class="score-list-item" data-qa="list-item-link" href="/tv/american_manhunt_osama_bin_laden/s01">
+<div class="score-wrap">
+<score-icon-critics certified="false" sentiment="empty" size="1"></score-icon-critics>
+<rt-text class="critics-score-empty" context="label" size="1" style="--textColor: var(--grayLight4); --lineHeight: 1; --letterSpacing: 0.2em;">--</rt-text>
+</div>
+<span>
+        
+            American Manhunt: Osama bin Laden: Season 1
+        
+    </span>
+</a>
+</li>
+</ul>
+<a class="a--short" data-qa="tv-list1-view-all-link" href="/browse/tv_series_browse/sort:newest" slot="view-all-link">
+                View All
+            </a>
+</rt-header-nav-item-dropdown-list>
+<rt-header-nav-item-dropdown-list data-qa="header-tv-list2" slot="column">
+<p class="h4" data-curation="rt-hp-text-list-2" slot="title">
+              Most Popular TV on RT
+            </p>
+<ul class="score-list-wrap" slot="links">
+<li data-qa="list-item">
+<a class="score-list-item" data-qa="list-item-link" href="/tv/daredevil_born_again/s01">
+<div class="score-wrap">
+<score-icon-critics certified="true" sentiment="positive" size="1"></score-icon-critics>
+<rt-text class="critics-score" context="label" size="1" style="--lineHeight: 1; --letterSpacing: 0.016em;">84%</rt-text>
+</div>
+<span>
+        
+            Daredevil: Born Again: Season 1
+        
+    </span>
+</a>
+</li>
+<li data-qa="list-item">
+<a class="score-list-item" data-qa="list-item-link" href="/tv/the_white_lotus/s03">
+<div class="score-wrap">
+<score-icon-critics certified="true" sentiment="positive" size="1"></score-icon-critics>
+<rt-text class="critics-score" context="label" size="1" style="--lineHeight: 1; --letterSpacing: 0.016em;">95%</rt-text>
+</div>
+<span>
+        
+            The White Lotus: Season 3
+        
+    </span>
+</a>
+</li>
+<li data-qa="list-item">
+<a class="score-list-item" data-qa="list-item-link" href="/tv/the_studio/s01">
+<div class="score-wrap">
+<score-icon-critics certified="false" sentiment="positive" size="1"></score-icon-critics>
+<rt-text class="critics-score" context="label" size="1" style="--lineHeight: 1; --letterSpacing: 0.016em;">100%</rt-text>
+</div>
+<span>
+        
+            The Studio: Season 1
+        
+    </span>
+</a>
+</li>
+<li data-qa="list-item">
+<a class="score-list-item" data-qa="list-item-link" href="/tv/severance/s02">
+<div class="score-wrap">
+<score-icon-critics certified="true" sentiment="positive" size="1"></score-icon-critics>
+<rt-text class="critics-score" context="label" size="1" style="--lineHeight: 1; --letterSpacing: 0.016em;">97%</rt-text>
+</div>
+<span>
+        
+            Severance: Season 2
+        
+    </span>
+</a>
+</li>
+<li data-qa="list-item">
+<a class="score-list-item" data-qa="list-item-link" href="/tv/paradise_2025/s01">
+<div class="score-wrap">
+<score-icon-critics certified="true" sentiment="positive" size="1"></score-icon-critics>
+<rt-text class="critics-score" context="label" size="1" style="--lineHeight: 1; --letterSpacing: 0.016em;">83%</rt-text>
+</div>
+<span>
+        
+            Paradise: Season 1
+        
+    </span>
+</a>
+</li>
+<li data-qa="list-item">
+<a class="score-list-item" data-qa="list-item-link" href="/tv/with_love_meghan/s01">
+<div class="score-wrap">
+<score-icon-critics certified="false" sentiment="negative" size="1"></score-icon-critics>
+<rt-text class="critics-score" context="label" size="1" style="--lineHeight: 1; --letterSpacing: 0.016em;">38%</rt-text>
+</div>
+<span>
+        
+            With Love, Meghan: Season 1
+        
+    </span>
+</a>
+</li>
+<li data-qa="list-item">
+<a class="score-list-item" data-qa="list-item-link" href="/tv/the_righteous_gemstones/s04">
+<div class="score-wrap">
+<score-icon-critics certified="false" sentiment="positive" size="1"></score-icon-critics>
+<rt-text class="critics-score" context="label" size="1" style="--lineHeight: 1; --letterSpacing: 0.016em;">100%</rt-text>
+</div>
+<span>
+        
+            The Righteous Gemstones: Season 4
+        
+    </span>
+</a>
+</li>
+<li data-qa="list-item">
+<a class="score-list-item" data-qa="list-item-link" href="/tv/zero_day/s01">
+<div class="score-wrap">
+<score-icon-critics certified="false" sentiment="negative" size="1"></score-icon-critics>
+<rt-text class="critics-score" context="label" size="1" style="--lineHeight: 1; --letterSpacing: 0.016em;">52%</rt-text>
+</div>
+<span>
+        
+            Zero Day: Season 1
+        
+    </span>
+</a>
+</li>
+<li data-qa="list-item">
+<a class="score-list-item" data-qa="list-item-link" href="/tv/dark_winds/s03">
+<div class="score-wrap">
+<score-icon-critics certified="false" sentiment="positive" size="1"></score-icon-critics>
+<rt-text class="critics-score" context="label" size="1" style="--lineHeight: 1; --letterSpacing: 0.016em;">100%</rt-text>
+</div>
+<span>
+        
+            Dark Winds: Season 3
+        
+    </span>
+</a>
+</li>
+</ul>
+<a class="a--short" data-qa="tv-list2-view-all-link" href="/browse/tv_series_browse/sort:popular?" slot="view-all-link">
+                View All
+            </a>
+</rt-header-nav-item-dropdown-list>
+<rt-header-nav-item-dropdown-list data-qa="header-tv-more" slot="column">
+<p class="h4" slot="title">More</p>
+<ul slot="links">
+<li>
+<a class="what-to-watch" data-qa="what-to-watch-link-tv" href="https://editorial.rottentomatoes.com/rt-hub/what-to-watch/">
+                What to Watch<rt-badge>New</rt-badge>
+</a>
+</li>
+<li>
+<a data-qa="tv-best-link" href="/browse/tv_series_browse/sort:popular">
+<span>Best TV Shows</span>
+</a>
+</li>
+<li>
+<a data-qa="tv-popular-link" href="/browse/tv_series_browse/sort:popular">
+<span>Most Popular TV</span>
+</a>
+</li>
+<li>
+<a data-qa="tv-fandango-at-home-link" href="/browse/tv_series_browse/affiliates:fandango-at-home">
+<span>Fandango at Home</span>
+</a>
+</li>
+<li>
+<a data-qa="tv-peacock-link" href="/browse/tv_series_browse/affiliates:peacock">
+<span>Peacock</span>
+</a>
+</li>
+<li>
+<a data-qa="tv-paramount-link" href="/browse/tv_series_browse/affiliates:paramount-plus">
+<span>Paramount+</span>
+</a>
+</li>
+<li>
+<a data-qa="tv-netflix-link" href="/browse/tv_series_browse/affiliates:netflix">
+<span>Netflix</span>
+</a>
+</li>
+<li>
+<a data-qa="tv-prime-video-link" href="/browse/tv_series_browse/affiliates:prime-video">
+<span>Prime Video</span>
+</a>
+</li>
+<li>
+<a data-qa="tv-apple-tv-plus-link" href="/browse/tv_series_browse/affiliates:apple-tv-plus">
+<span>Apple TV+</span>
+</a>
+</li>
+</ul>
+</rt-header-nav-item-dropdown-list>
+<rt-header-nav-item-dropdown-list cfp="" data-qa="header-certified-fresh-pick" slot="column">
+<p class="h4" slot="title">
+              Certified fresh pick
+            </p>
+<ul class="cfp-wrap" data-curation="rt-nav-list-cf-picks" slot="links">
+<li>
+<a class="cfp-tile" data-qa="cert-fresh-link" href="/tv/deli_boys/s01">
+<tile-dynamic data-qa="tile">
+<rt-img alt="Deli Boys: Season 1 poster image" loading="lazy" slot="image" src="https://resizing.flixster.com/77r1UzSLRXk9STTxT9M2ougqfHg=/206x305/v2/https://resizing.flixster.com/T63G4aUx1niXPkz3PGPZP98TcNg=/fit-in/180x240/v2/https://resizing.flixster.com/3EOUHyXsX_MLcbGRMGT2GthaMgY=/ems.cHJkLWVtcy1hc3NldHMvdHZzZWFzb24vOWI5MmViNzAtNGFjMy00YWNiLTgwY2UtZDAxZDg3MjIzMDJiLmpwZw=="></rt-img>
+<div data-track="scores" slot="caption">
+<div class="score-wrap">
+<score-icon-critics certified="" sentiment="positive" size="1"></score-icon-critics>
+<rt-text class="critics-score" context="label" size="1">95%</rt-text>
+</div>
+<span class="p--small">Deli Boys: Season 1</span>
+<span class="sr-only">Link to Deli Boys: Season 1</span>
+</div>
+</tile-dynamic>
+</a>
+</li>
+</ul>
+</rt-header-nav-item-dropdown-list>
+</rt-header-nav-item-dropdown>
+</rt-header-nav-item>
+<rt-header-nav-item slot="shop">
+<a class="unset" data-adsglobalnavtakeovermanager="text" data-qa="masthead:shop-link" href="https://store.fandango.com/" id="shopLink" slot="link" target="_blank">
+          FanStore
+          <temporary-display element="#shopLink" event="click" key="shop" slot="temporary-display">
+<rt-badge hidden="">New</rt-badge>
+</temporary-display>
+</a>
+</rt-header-nav-item>
+<rt-header-nav-item data-qa="masthead:news" slot="news">
+<a class="unset" data-adsglobalnavtakeovermanager="text" data-qa="masthead:news-link" href="https://editorial.rottentomatoes.com/" slot="link">
+        News
+      </a>
+<rt-header-nav-item-dropdown aria-expanded="false" data-qa="news-menu" slot="dropdown">
+<rt-header-nav-item-dropdown-list data-qa="header-news-columns" slot="column">
+<p class="h4" slot="title">Columns</p>
+<ul slot="links">
+<li data-qa="column-item">
+<a data-pageheader="All-Time Lists" data-qa="column-link" href="https://editorial.rottentomatoes.com/all-time-lists/">
+                All-Time Lists
+              </a>
+</li>
+<li data-qa="column-item">
+<a data-pageheader="Binge Guide" data-qa="column-link" href="https://editorial.rottentomatoes.com/binge-guide/">
+                Binge Guide
+              </a>
+</li>
+<li data-qa="column-item">
+<a data-pageheader="Comics on TV" data-qa="column-link" href="https://editorial.rottentomatoes.com/comics-on-tv/">
+                Comics on TV
+              </a>
+</li>
+<li data-qa="column-item">
+<a data-pageheader="Countdown" data-qa="column-link" href="https://editorial.rottentomatoes.com/countdown/">
+                Countdown
+              </a>
+</li>
+<li data-qa="column-item">
+<a data-pageheader="Five Favorite Films" data-qa="column-link" href="https://editorial.rottentomatoes.com/five-favorite-films/">
+                Five Favorite Films
+              </a>
+</li>
+<li data-qa="column-item">
+<a data-pageheader="Video Interviews" data-qa="column-link" href="https://editorial.rottentomatoes.com/video-interviews/">
+                Video Interviews
+              </a>
+</li>
+<li data-qa="column-item">
+<a data-pageheader="Weekend Box Office" data-qa="column-link" href="https://editorial.rottentomatoes.com/weekend-box-office/">Weekend Box Office
+            </a>
+</li>
+<li data-qa="column-item">
+<a data-pageheader="Weekly Ketchup" data-qa="column-link" href="https://editorial.rottentomatoes.com/weekly-ketchup/">
+                Weekly Ketchup
+              </a>
+</li>
+<li data-qa="column-item">
+<a data-pageheader="What to Watch" data-qa="column-link" href="https://editorial.rottentomatoes.com/what-to-watch/">
+                What to Watch
+              </a>
+</li>
+</ul>
+</rt-header-nav-item-dropdown-list>
+<rt-header-nav-item-dropdown-list data-qa="header-news-guides" slot="column">
+<p class="h4" slot="title">Guides</p>
+<ul class="news-wrap" slot="links">
+<li data-qa="guides-item">
+<a class="news-tile" data-qa="news-link" href="https://editorial.rottentomatoes.com/guide/best-new-action-movies/">
+<tile-dynamic data-qa="tile" orientation="landscape">
+<rt-img alt="100 Best New Action Movies of 2025 poster image" loading="lazy" slot="image" src="https://editorial.rottentomatoes.com/wp-content/uploads/2025/03/600InTheLostLands.jpg"></rt-img>
+<div slot="caption">
+<p>100 Best New Action Movies of 2025</p>
+<span class="sr-only">Link to 100 Best New Action Movies of 2025</span>
+</div>
+</tile-dynamic>
+</a>
+</li>
+<li data-qa="guides-item">
+<a class="news-tile" data-qa="news-link" href="https://editorial.rottentomatoes.com/guide/popular-movies/">
+<tile-dynamic data-qa="tile" orientation="landscape">
+<rt-img alt="30 Most Popular Movies Right Now: What to Watch In Theaters and Streaming poster image" loading="lazy" slot="image" src="https://editorial.rottentomatoes.com/wp-content/uploads/2025/02/600Mickey17.jpg"></rt-img>
+<div slot="caption">
+<p>30 Most Popular Movies Right Now: What to Watch In Theaters and Streaming</p>
+<span class="sr-only">Link to 30 Most Popular Movies Right Now: What to Watch In Theaters and Streaming</span>
+</div>
+</tile-dynamic>
+</a>
+</li>
+</ul>
+<a class="a--short" data-qa="guides-view-all-link" href="https://editorial.rottentomatoes.com/countdown/" slot="view-all-link">
+              View All
+            </a>
+</rt-header-nav-item-dropdown-list>
+<rt-header-nav-item-dropdown-list data-qa="header-news-hubs" slot="column">
+<p class="h4" slot="title">Hubs</p>
+<ul class="news-wrap" slot="links">
+<li data-qa="hubs-item">
+<a class="news-tile" data-qa="news-link" href="https://editorial.rottentomatoes.com/rt-hub/what-to-watch/">
+<tile-dynamic data-qa="tile" orientation="landscape">
+<rt-img alt="What to Watch: In Theaters and On Streaming. poster image" loading="lazy" slot="image" src="https://editorial.rottentomatoes.com/wp-content/uploads/2023/05/RT_WTW_Generic_2023_Thumbnail_600x314_021623.jpg"></rt-img>
+<div slot="caption">
+<p>What to Watch: In Theaters and On Streaming.</p>
+<span class="sr-only">Link to What to Watch: In Theaters and On Streaming.</span>
+</div>
+</tile-dynamic>
+</a>
+</li>
+<li data-qa="hubs-item">
+<a class="news-tile" data-qa="news-link" href="https://editorial.rottentomatoes.com/rt-hub/awards-tour/">
+<tile-dynamic data-qa="tile" orientation="landscape">
+<rt-img alt="Awards Tour poster image" loading="lazy" slot="image" src="https://editorial.rottentomatoes.com/wp-content/uploads/2023/02/RT_AwardsTour_Thumbnail_600x314.jpg"></rt-img>
+<div slot="caption">
+<p>Awards Tour</p>
+<span class="sr-only">Link to Awards Tour</span>
+</div>
+</tile-dynamic>
+</a>
+</li>
+</ul>
+<a class="a--short" data-qa="hubs-view-all-link" href="https://editorial.rottentomatoes.com/rt-hubs/" slot="view-all-link">
+              View All
+            </a>
+</rt-header-nav-item-dropdown-list>
+<rt-header-nav-item-dropdown-list data-qa="header-news-rt-news" slot="column">
+<p class="h4" slot="title">RT News</p>
+<ul class="news-wrap" slot="links">
+<li data-qa="rt-news-item">
+<a class="news-tile" data-qa="news-link" href="https://editorial.rottentomatoes.com/article/renewed-and-cancelled-tv-shows-2025/">
+<tile-dynamic data-qa="tile" orientation="landscape">
+<rt-img alt="Renewed and Cancelled TV Shows 2025 poster image" loading="lazy" slot="image" src="https://editorial.rottentomatoes.com/wp-content/uploads/2025/03/Renewed_Cancelled_Conan_OBrien_Must_Go-Rep.jpg"></rt-img>
+<div slot="caption">
+<p>Renewed and Cancelled TV Shows 2025</p>
+<span class="sr-only">Link to Renewed and Cancelled TV Shows 2025</span>
+</div>
+</tile-dynamic>
+</a>
+</li>
+<li data-qa="rt-news-item">
+<a class="news-tile" data-qa="news-link" href="https://editorial.rottentomatoes.com/article/reacher-season-3-exclusive-trailer/">
+<tile-dynamic data-qa="tile" orientation="landscape">
+<rt-img alt="&lt;em&gt;Reacher&lt;/em&gt;: Season 3 Exclusive Mid-Season Trailer poster image" loading="lazy" slot="image" src="https://editorial.rottentomatoes.com/wp-content/uploads/2025/03/Reacher_Exclusive-600x314-1.jpg"></rt-img>
+<div slot="caption">
+<p><em>Reacher</em>: Season 3 Exclusive Mid-Season Trailer</p>
+<span class="sr-only">Link to <em>Reacher</em>: Season 3 Exclusive Mid-Season Trailer</span>
+</div>
+</tile-dynamic>
+</a>
+</li>
+</ul>
+<a class="a--short" data-qa="rt-news-view-all-link" href="https://editorial.rottentomatoes.com/news/" slot="view-all-link">
+              View All
+            </a>
+</rt-header-nav-item-dropdown-list>
+</rt-header-nav-item-dropdown>
+</rt-header-nav-item>
+<rt-header-nav-item slot="showtimes">
+<a class="unset" data-adsglobalnavtakeovermanager="text" data-qa="masthead:tickets-showtimes-link" href="https://www.fandango.com/movies-in-theaters?a=13036" rel="noopener" slot="link" target="_blank">
+        Showtimes
+      </a>
+</rt-header-nav-item>
+</rt-header-nav>
+</rt-header>
+<ads-global-nav-takeover-manager></ads-global-nav-takeover-manager>
+<section class="trending-bar">
+<ad-unit hidden="" id="trending_bar_ad" unitdisplay="desktop" unittype="trendinggraphic">
+<div slot="adInject"></div>
+</ad-unit>
+<div class="trending-list-wrap" data-qa="trending-bar" id="trending-bar-start">
+<ul class="list-inline trending-bar__list" data-curation="rt-nav-trending" data-qa="trending-bar-list">
+<li class="trending-bar__header">Trending on RT</li>
+<li><a class="trending-bar__link" data-qa="trending-bar-item" href="https://editorial.rottentomatoes.com/guide/sxsw-2025-scorecard/"> SXSW Scorecard </a></li>
+<li><a class="trending-bar__link" data-qa="trending-bar-item" href="https://editorial.rottentomatoes.com/article/death-of-a-unicorn-first-reviews/"> Death of a Unicorn </a></li>
+<li><a class="trending-bar__link" data-qa="trending-bar-item" href="https://editorial.rottentomatoes.com/article/renewed-and-cancelled-tv-shows-2025/"> Renewed and Cancelled TV </a></li>
+<li><a class="trending-bar__link" data-qa="trending-bar-item" href="https://editorial.rottentomatoes.com/article/fresh-movies-you-can-watch-for-free-online-right-now/"> Free Movies </a></li>
+</ul>
+<div class="trending-bar__social" data-qa="trending-bar-social-list">
+<social-media-icons size="14" theme="light"></social-media-icons>
+</div>
+</div>
+</section>
+<main class="container rt-layout__content" id="main_container">
+<bottom-nav data-discoverygridsmanager="bottomNavComponent" data-qa="bottom-nav">
+<a slot="template">
+<bottom-nav-item></bottom-nav-item>
+</a>
+</bottom-nav>
+<div id="main-page-content">
+<div class="layout reviews-page-container">
+<aside class="layout__column layout__column--sidebar layout__column--sidebar-left mobile-hidden">
+<section class="reviews-info-container">
+<a data-qa="sidebar-poster-link" href="/m/avengers_endgame">
+<rt-img alt="Avengers: Endgame poster" data-qa="sidebar-poster-img" src="https://resizing.flixster.com/2yTtbYaljlzWgEhOCUTrH55jjfM=/206x305/v2/https://resizing.flixster.com/fC7nU6iTRQk02tS0SDS1ylx-G34=/ems.cHJkLWVtcy1hc3NldHMvbW92aWVzL2QxZjE5ZDgzLTRiY2MtNDFkYS04NWQ4LTRkYzc1ZTAwNWE2NC53ZWJw"></rt-img>
+</a>
+<div class="info-section">
+<a class="sidebar-title" data-qa="sidebar-media-link" href="/m/avengers_endgame" target="_top">
+            Avengers: Endgame
+        </a>
+<ul data-qa="sidebar-movie-details">
+<li>
+                PG-13 ,  3h 1m
+            </li>
+<li>
+                Action,Adventure,Fantasy,Sci-Fi
+            </li>
+<li>
+                    Directed By:
+                        
+                            <a href="/celebrity/anthony_russo">
+                                Anthony Russo
+                            </a>
+                            , 
+                        
+                            <a href="/celebrity/joseph_russo">
+                                Joe Russo
+                            </a>
+</li>
+<li>
+                    In Theaters:
+                    Apr 26, 2019
+                </li>
+<li>
+                    Streaming:
+                    Jul 30, 2019
+                </li>
+<li>
+                Marvel Studios, Walt Disney Pictures
+            </li>
+</ul>
+<a class="report-review" data-qa="flag-critic-review" href="https://fandango.az1.qualtrics.com/jfe/form/SV_3NMwx66TSe9KAfz" rel="noopener" target="_blank">
+                Do you think we mischaracterized a critic's review?
+            </a>
+</div>
+<div class="info-videos">
+<h2 class="unset" data-qa="reviews-title">
+<rt-text context="heading" size="1.25">
+<em>Avengers: Endgame</em> Videos
+                </rt-text>
+</h2>
+<ul>
+<li class="info-video-item">
+<div class="video-thumbnail">
+<a alt="" class="videoLink" data-qa="sidebar-video-link" href="/m/avengers_endgame/videos/2034371139888">
+<img height="53" src="https://resizing.flixster.com/-5UsQsp9vv6a47GutEFkyFgRDX4=/270x160/v2/https://statcdn.fandango.com/MPX/image/NBCU_Fandango/672/519/thumb_BE9BAB8B-31DB-40FB-89F6-47E2AE99A5E3.jpg" width="80">
+</img></a>
+</div>
+<div class="video-info" data-qa="sidebar-img-title">
+<a class="video-info-title" href="/m/avengers_endgame/videos/2034371139888">Most Surprising Movie Cameos</a>
+<p class="video-info-item">
+                                    22:58
+                                </p>
+</div>
+</li>
+<li class="info-video-item">
+<div class="video-thumbnail">
+<a alt="" class="videoLink" data-qa="sidebar-video-link" href="/m/avengers_endgame/videos/1997075523781">
+<img height="53" src="https://resizing.flixster.com/giQeV1adkOI5szXyY-TMEgaWmtc=/270x160/v2/https://statcdn.fandango.com/MPX/image/NBCU_Fandango/944/651/thumb_FC3DB8A1-7903-43C8-8295-4EDA00DF8794__011967.jpg" width="80">
+</img></a>
+</div>
+<div class="video-info" data-qa="sidebar-img-title">
+<a class="video-info-title" href="/m/avengers_endgame/videos/1997075523781">Rotten Tomatoes is Wrong About... Avengers: Endgame</a>
+<p class="video-info-item">
+                                    51:34
+                                </p>
+</div>
+</li>
+<li class="info-video-item">
+<div class="video-thumbnail">
+<a alt="" class="videoLink" data-qa="sidebar-video-link" href="/m/avengers_endgame/videos/1686386243548">
+<img height="53" src="https://resizing.flixster.com/KU_2gHcwDSg7tUb3P4tOfTIvsMc=/270x160/v2/https://statcdn.fandango.com/MPX/image/NBCU_Fandango/584/254/thumb_93E49D80-DEC3-4B90-880D-99AC501392BD.jpg" width="80">
+</img></a>
+</div>
+<div class="video-info" data-qa="sidebar-img-title">
+<a class="video-info-title" href="/m/avengers_endgame/videos/1686386243548">Golden Tomatoes Awards, Best TV Shows &amp; More</a>
+<p class="video-info-item">
+                                    8:35
+                                </p>
+</div>
+</li>
+</ul>
+<a data-qa="sidebar-view-all-link" href="/m/avengers_endgame/videos">View All Videos (20)</a>
+</div>
+</section>
+<ad-unit hidden="" showadlink="" unitdisplay="desktop" unittype="topmulti">
+<div slot="adInject"></div>
+</ad-unit>
+</aside>
+<section class="layout__column layout__column--main" data-qa="section:reviews">
+<div class="reviews-container" data-qa="reviews-container" id="reviews">
+<h2 class="unset" data-qa="reviews-title">
+<rt-text context="heading" size="1.25">
+                        Avengers: Endgame Reviews
+                    </rt-text>
+</h2>
+<reviews-dropdown-manager></reviews-dropdown-manager>
+<button class="review-nav-dropdown-toggle mobile-visible" data-qa="discovery-nav-desktop-btn" data-reviewsdropdownmanager="btnDropdown:click">
+    All Audience
+    <rt-icon icon="down-open"></rt-icon>
+</button>
+<dropdown-menu data-qa="reviews-tab-menu" data-reviewsdropdownmanager="menuDropdown" hidden="">
+<a href="#" slot="close"><rt-icon icon="close" image=""></rt-icon></a>
+<a data-qa="all-critics" href="/m/avengers_endgame/reviews" slot="option">
+<dropdown-option>All Critics</dropdown-option>
+</a>
+<a data-qa="top-critics" href="/m/avengers_endgame/reviews?type=top_critics" slot="option">
+<dropdown-option>Top Critics</dropdown-option>
+</a>
+<a data-qa="all-audience" href="/m/avengers_endgame/reviews?type=user" slot="option">
+<dropdown-option>All Audience</dropdown-option>
+</a>
+<a data-qa="verified-audience" href="/m/avengers_endgame/reviews?type=verified_audience" slot="option">
+<dropdown-option>Verified Audience</dropdown-option>
+</a>
+</dropdown-menu>
+<nav aria-labelledby="tv-season-review-nav-desktop-label" class="mobile-hidden">
+<h3 class="hide" id="tv-season-review-nav-desktop-label">Movie Reviews By Reviewer Type</h3>
+<ul class="tabs js-tabs-wrap">
+<li class="tabs__item" data-qa="reviews-tab-desktop">
+<a class="tabs__link js-tab-link" data-qa="all-critics" data-type="all-critics" href="/m/avengers_endgame/reviews">All Critics</a>
+</li>
+<li class="tabs__item" data-qa="reviews-tab-desktop">
+<a class="tabs__link js-tab-link" data-qa="top-critics" data-type="top-critics" href="/m/avengers_endgame/reviews?type=top_critics">Top Critics</a>
+</li>
+<li class="tabs__item tabs__item--active" data-qa="reviews-tab-desktop">
+<a class="tabs__link js-tab-link" data-qa="all-audience" data-type="all-audience" href="/m/avengers_endgame/reviews?type=user">All Audience</a>
+</li>
+<li class="tabs__item" data-qa="reviews-tab-desktop">
+<a class="tabs__link tabs__link--verified js-tab-link" data-qa="verified-audience" data-type="verified-audience" href="/m/avengers_endgame/reviews?type=verified_audience">
+                    Verified Audience
+                </a>
+</li>
+<li class="tabs-underline js-tabs-underline"></li>
+</ul>
+</nav>
+<load-more-manager endcursor="eyJyZWFsbV91c2VySWQiOiJSVF9lNDc5OTYwNi0yZGYyLTQ0MjEtOGY3My0wYzE4MzU1ZTI5MmQiLCJlbXNJZCI6IjdiMmJjZDlhLTM1OWYtM2ZmZC1iYmJkLWFiZTllNWNlM2Y5ZSIsImVtc0lkX2hhc1Jldmlld0lzVmlzaWJsZSI6IjdiMmJjZDlhLTM1OWYtM2ZmZC1iYmJkLWFiZTllNWNlM2Y5ZV9UIiwiY3JlYXRlRGF0ZSI6IjIwMjUtMDItMTZUMjM6MTQ6MjEuMzA0WiJ9" endpoint="/cnapi/movie/7b2bcd9a-359f-3ffd-bbbd-abe9e5ce3f9e/reviews/user" hasnext="true" pagecount="20" rendertemplate="_audience-reviews" showemptystate="false"></load-more-manager>
+<div class="review_table" data-loadmoremanager="loadMoreDataContainer">
+<div class="audience-review-row" data-qa="review-item" tabindex="0">
+<div class="review-data">
+<a href="/profiles/804UlBhWjIqktMGse9FzwIdXIeeCnrH9pFqlirxfGGCokiWvHYbHMmhllCavuQ4FnPSyahAAC9Mua2svyHmxsV4IRkFN2SKVHmQcjlizKCgR">
+<span class="audience-review__default-image"></span>
+</a>
+<div class="audience-reviews__name-wrap">
+<a class="audience-reviews__name" data-qa="review-name" href="/profiles/804UlBhWjIqktMGse9FzwIdXIeeCnrH9pFqlirxfGGCokiWvHYbHMmhllCavuQ4FnPSyahAAC9Mua2svyHmxsV4IRkFN2SKVHmQcjlizKCgR">
+                              Caysen A
+                          </a>
+</div>
+</div>
+<div class="review-text-container">
+<div class="audience-review-meta">
+<rating-stars-group score="3.5"></rating-stars-group>
+<span class="audience-reviews__duration" data-qa="review-duration">Mar 11, 2025</span>
+</div>
+<drawer-more maxlines="6" skeleton="text" status="closed">
+<p class="audience-reviews__review js-review-text" data-qa="review-text" slot="content">
+                      a good movie overall but feels WAY to long!
+                  </p>
+<button class="button--link" slot="ctaClose">Show Less</button>
+<button class="button--link" slot="ctaOpen">Show More</button>
+</drawer-more>
+<div class="review-flag-btn__wrapper">
+<button class="js-review-flag-btn review-flag-btn review-flag-btn--right" data-author-id="56fd1c77-0943-4006-bc26-81017920f4e4" data-author-realm="RT" data-review-id="436b19c7-f254-4a00-b0c7-2956d4bcc598">
+                          Flag this review
+                  </button>
+</div>
+</div>
+</div>
+<div class="audience-review-row" data-qa="review-item" tabindex="0">
+<div class="review-data">
+<a href="/profiles/PdrFqgtlotMvskmS9MfwguNYSZZCONiWjUgyu2oIaaClKiO4SZ0uedHBBClAIboIgOHqltqqCersYwSGMiv0hyaSYRclvfDPTrpTm4hG8IyX">
+<span class="audience-review__default-image"></span>
+</a>
+<div class="audience-reviews__name-wrap">
+<a class="audience-reviews__name" data-qa="review-name" href="/profiles/PdrFqgtlotMvskmS9MfwguNYSZZCONiWjUgyu2oIaaClKiO4SZ0uedHBBClAIboIgOHqltqqCersYwSGMiv0hyaSYRclvfDPTrpTm4hG8IyX">
+                              Lucas T
+                          </a>
+</div>
+</div>
+<div class="review-text-container">
+<div class="audience-review-meta">
+<rating-stars-group score="4"></rating-stars-group>
+<span class="audience-reviews__duration" data-qa="review-duration">Mar 11, 2025</span>
+</div>
+<drawer-more maxlines="6" skeleton="text" status="closed">
+<p class="audience-reviews__review js-review-text" data-qa="review-text" slot="content">
+                      The best marvel movie ever! The way everyone avenges together is so fun to watch. It also is very emotional at times, it'll even make you cry. It would of been a great ending to the MCU, I mean it already had so many movies. It was set up so well, the title even had Endgame in the title. But no, Disney wants it's money so it will keep making new MCU movies. And what do we get, tons of mid shows and movies that no one actually wants to watch anyways. Nonetheless, there are still a couple good MCU movies that came out after Endgame.
+                  </p>
+<button class="button--link" slot="ctaClose">Show Less</button>
+<button class="button--link" slot="ctaOpen">Show More</button>
+</drawer-more>
+<div class="review-flag-btn__wrapper">
+<button class="js-review-flag-btn review-flag-btn review-flag-btn--right" data-author-id="edde23b2-4f87-4280-aa0d-12462f35567a" data-author-realm="RT" data-review-id="a3ac45c8-3430-4b09-9341-b348e8a7960e">
+                          Flag this review
+                  </button>
+</div>
+</div>
+</div>
+<div class="audience-review-row" data-qa="review-item" tabindex="0">
+<div class="review-data">
+<a href="/profiles/YPlHGOINgSapIgDHPAfyJF1Ls66CedczgiJnC9nTKKCqviLXHA2T8LTvvCdQurJCoQcw6IzzCdDhQqcRdTjwurPuzYIROIN9FAOfdlimRFpq">
+<span class="audience-review__default-image"></span>
+</a>
+<div class="audience-reviews__name-wrap">
+<a class="audience-reviews__name" data-qa="review-name" href="/profiles/YPlHGOINgSapIgDHPAfyJF1Ls66CedczgiJnC9nTKKCqviLXHA2T8LTvvCdQurJCoQcw6IzzCdDhQqcRdTjwurPuzYIROIN9FAOfdlimRFpq">
+                              Farhan S
+                          </a>
+</div>
+</div>
+<div class="review-text-container">
+<div class="audience-review-meta">
+<rating-stars-group score="5"></rating-stars-group>
+<span class="audience-reviews__duration" data-qa="review-duration">Mar 9, 2025</span>
+</div>
+<drawer-more maxlines="6" skeleton="text" status="closed">
+<p class="audience-reviews__review js-review-text" data-qa="review-text" slot="content">
+                      Masterpiece. Masterpiece.
+                  </p>
+<button class="button--link" slot="ctaClose">Show Less</button>
+<button class="button--link" slot="ctaOpen">Show More</button>
+</drawer-more>
+<div class="review-flag-btn__wrapper">
+<button class="js-review-flag-btn review-flag-btn review-flag-btn--right" data-author-id="d7fa03c1-f4f5-4055-8efa-6f5bb7ac34ca" data-author-realm="RT" data-review-id="4e57eabc-b1d6-4702-bbf4-98eb3417aac9">
+                          Flag this review
+                  </button>
+</div>
+</div>
+</div>
+<div class="audience-review-row" data-qa="review-item" tabindex="0">
+<div class="review-data">
+<a href="/profiles/0N6SOzUAQuYBinafpmi6Of4rheeCXxsk6hzPHdltyyCk4izaiPaCjNH44ClAuzNcZVuDMivvCJwuwBu4AHNlI1gTjLTL0tz2F4LcADIoaCRQ">
+<span class="audience-review__default-image"></span>
+</a>
+<div class="audience-reviews__name-wrap">
+<a class="audience-reviews__name" data-qa="review-name" href="/profiles/0N6SOzUAQuYBinafpmi6Of4rheeCXxsk6hzPHdltyyCk4izaiPaCjNH44ClAuzNcZVuDMivvCJwuwBu4AHNlI1gTjLTL0tz2F4LcADIoaCRQ">
+                              Emma F
+                          </a>
+</div>
+</div>
+<div class="review-text-container">
+<div class="audience-review-meta">
+<rating-stars-group score="4"></rating-stars-group>
+<span class="audience-reviews__duration" data-qa="review-duration">Mar 8, 2025</span>
+</div>
+<drawer-more maxlines="6" skeleton="text" status="closed">
+<p class="audience-reviews__review js-review-text" data-qa="review-text" slot="content">
+                      One of the most epic superhero movies of all time.
+                  </p>
+<button class="button--link" slot="ctaClose">Show Less</button>
+<button class="button--link" slot="ctaOpen">Show More</button>
+</drawer-more>
+<div class="review-flag-btn__wrapper">
+<button class="js-review-flag-btn review-flag-btn review-flag-btn--right" data-author-id="dc8f3436-160d-44c0-bf84-8b07f5d9faeb" data-author-realm="RT" data-review-id="465dfeab-86c5-4f4b-b8cc-b3cfead0360c">
+                          Flag this review
+                  </button>
+</div>
+</div>
+</div>
+<div class="audience-review-row" data-qa="review-item" tabindex="0">
+<div class="review-data">
+<a href="/profiles/ZZ0fDaCKLSGwhaeTRQhXNI0rHDDCrVsP6hnaFoKHRRCKJiWrsxgTzxiGGCAmuX8fLoukVCeeCpWiazIJNfMbFBrsgBHnwTNoSMRIamulKfjv">
+<span class="audience-review__default-image"></span>
+</a>
+<div class="audience-reviews__name-wrap">
+<a class="audience-reviews__name" data-qa="review-name" href="/profiles/ZZ0fDaCKLSGwhaeTRQhXNI0rHDDCrVsP6hnaFoKHRRCKJiWrsxgTzxiGGCAmuX8fLoukVCeeCpWiazIJNfMbFBrsgBHnwTNoSMRIamulKfjv">
+                              AARNAV V
+                          </a>
+</div>
+</div>
+<div class="review-text-container">
+<div class="audience-review-meta">
+<rating-stars-group score="5"></rating-stars-group>
+<span class="audience-reviews__duration" data-qa="review-duration">Mar 5, 2025</span>
+</div>
+<drawer-more maxlines="6" skeleton="text" status="closed">
+<p class="audience-reviews__review js-review-text" data-qa="review-text" slot="content">
+                      Not as good as infinity war but still a great conclusion to the infinity saga
+                  </p>
+<button class="button--link" slot="ctaClose">Show Less</button>
+<button class="button--link" slot="ctaOpen">Show More</button>
+</drawer-more>
+<div class="review-flag-btn__wrapper">
+<button class="js-review-flag-btn review-flag-btn review-flag-btn--right" data-author-id="cd2d5c70-1fc0-4154-83ae-473910527b3a" data-author-realm="RT" data-review-id="2fc55cdd-0241-41f2-9043-d1a32a2456fa">
+                          Flag this review
+                  </button>
+</div>
+</div>
+</div>
+<div class="audience-review-row" data-qa="review-item" tabindex="0">
+<div class="review-data">
+<a href="/profiles/4JBIort6ncLysXnFx1I9NTKwFPPCMdug8svJulvFyyC8oi8OtgDu0pcyyCdBIaPInYCMysOOC2auoRhKViLDiyMFpPiP1iboHdjFBYHyYfMm">
+<span class="audience-review__default-image"></span>
+</a>
+<div class="audience-reviews__name-wrap">
+<a class="audience-reviews__name" data-qa="review-name" href="/profiles/4JBIort6ncLysXnFx1I9NTKwFPPCMdug8svJulvFyyC8oi8OtgDu0pcyyCdBIaPInYCMysOOC2auoRhKViLDiyMFpPiP1iboHdjFBYHyYfMm">
+                              Diaulas F
+                          </a>
+</div>
+</div>
+<div class="review-text-container">
+<div class="audience-review-meta">
+<rating-stars-group score="5"></rating-stars-group>
+<span class="audience-reviews__duration" data-qa="review-duration">Mar 1, 2025</span>
+</div>
+<drawer-more maxlines="6" skeleton="text" status="closed">
+<p class="audience-reviews__review js-review-text" data-qa="review-text" slot="content">
+                      Uau! Que filme! Que elenco! 
+                  </p>
+<button class="button--link" slot="ctaClose">Show Less</button>
+<button class="button--link" slot="ctaOpen">Show More</button>
+</drawer-more>
+<div class="review-flag-btn__wrapper">
+<button class="js-review-flag-btn review-flag-btn review-flag-btn--right" data-author-id="edf197fa-8189-4eba-a7e1-f644c440c031" data-author-realm="RT" data-review-id="d29a11b2-d492-4f2c-b84f-0d0096888db0">
+                          Flag this review
+                  </button>
+</div>
+</div>
+</div>
+<div class="audience-review-row" data-qa="review-item" tabindex="0">
+<div class="review-data">
+<a href="/profiles/0x6uOzUzrCYXsvGFpmi6mImaIeeCavFkzFzMSGPfyyCk4izkfPZcjNH44ClaI1rfZPID2svvCJpfkZi4QIZMu09iDpUwpfM2CdBFAaF1jfRL">
+<span class="audience-review__default-image"></span>
+</a>
+<div class="audience-reviews__name-wrap">
+<a class="audience-reviews__name" data-qa="review-name" href="/profiles/0x6uOzUzrCYXsvGFpmi6mImaIeeCavFkzFzMSGPfyyCk4izkfPZcjNH44ClaI1rfZPID2svvCJpfkZi4QIZMu09iDpUwpfM2CdBFAaF1jfRL">
+                              Diego B
+                          </a>
+</div>
+</div>
+<div class="review-text-container">
+<div class="audience-review-meta">
+<rating-stars-group score="4.5"></rating-stars-group>
+<span class="audience-reviews__duration" data-qa="review-duration">Feb 27, 2025</span>
+</div>
+<drawer-more maxlines="6" skeleton="text" status="closed">
+<p class="audience-reviews__review js-review-text" data-qa="review-text" slot="content">
+                      Great movie, i found everything so good, time travel maybe is not a good idea but makes sense it make you to relive the whole MCU again  in don't really like that it's been five years after infinity war, but it has a great conclution for the original avengers  
+                  </p>
+<button class="button--link" slot="ctaClose">Show Less</button>
+<button class="button--link" slot="ctaOpen">Show More</button>
+</drawer-more>
+<div class="review-flag-btn__wrapper">
+<button class="js-review-flag-btn review-flag-btn review-flag-btn--right" data-author-id="8cecc47a-c923-43d0-a371-347b4f3e9c3c" data-author-realm="RT" data-review-id="b353312f-bd10-40f6-bff2-9ad5e102c93c">
+                          Flag this review
+                  </button>
+</div>
+</div>
+</div>
+<div class="audience-review-row" data-qa="review-item" tabindex="0">
+<div class="review-data">
+<a href="/profiles/gyXTaxsyXFWpTORu8yINMSmjSDDCemHzwF0RulVCMMCGPixOfKRfjPFwwC8PuJYcnKcLXFllCGBsZMSektR0TGRFYpHOpSAbf4xcr4unvhBw">
+<span class="audience-review__default-image"></span>
+</a>
+<div class="audience-reviews__name-wrap">
+<a class="audience-reviews__name" data-qa="review-name" href="/profiles/gyXTaxsyXFWpTORu8yINMSmjSDDCemHzwF0RulVCMMCGPixOfKRfjPFwwC8PuJYcnKcLXFllCGBsZMSektR0TGRFYpHOpSAbf4xcr4unvhBw">
+                              Jeff L
+                          </a>
+</div>
+</div>
+<div class="review-text-container">
+<div class="audience-review-meta">
+<rating-stars-group score="5"></rating-stars-group>
+<span class="audience-reviews__duration" data-qa="review-duration">Feb 26, 2025</span>
+</div>
+<drawer-more maxlines="6" skeleton="text" status="closed">
+<p class="audience-reviews__review js-review-text" data-qa="review-text" slot="content">
+                      I absolutely love this movie and still to this day I love it but marvel has kind of gone down hill after
+                  </p>
+<button class="button--link" slot="ctaClose">Show Less</button>
+<button class="button--link" slot="ctaOpen">Show More</button>
+</drawer-more>
+<div class="review-flag-btn__wrapper">
+<button class="js-review-flag-btn review-flag-btn review-flag-btn--right" data-author-id="51cea722-09ee-43d9-8bf9-f2d5d023f864" data-author-realm="RT" data-review-id="1f3023cb-9afb-479a-ad55-bd6959bb26e8">
+                          Flag this review
+                  </button>
+</div>
+</div>
+</div>
+<div class="audience-review-row" data-qa="review-item" tabindex="0">
+<div class="review-data">
+<a href="/profiles/RzwFAQUlPIYosnLh4RfQNuBjsAACNZSJZhNzil9fnnCx6iQbhDwIvqhZZC6kTdkTR9tlPuGGC9NHP9sR4upvI2nTdzF9yuZPs9AIWZIk2TaO">
+<span class="audience-review__default-image"></span>
+</a>
+<div class="audience-reviews__name-wrap">
+<a class="audience-reviews__name" data-qa="review-name" href="/profiles/RzwFAQUlPIYosnLh4RfQNuBjsAACNZSJZhNzil9fnnCx6iQbhDwIvqhZZC6kTdkTR9tlPuGGC9NHP9sR4upvI2nTdzF9yuZPs9AIWZIk2TaO">
+                              Leprechaun K
+                          </a>
+</div>
+</div>
+<div class="review-text-container">
+<div class="audience-review-meta">
+<rating-stars-group score="4"></rating-stars-group>
+<span class="audience-reviews__duration" data-qa="review-duration">Feb 25, 2025</span>
+</div>
+<drawer-more maxlines="6" skeleton="text" status="closed">
+<p class="audience-reviews__review js-review-text" data-qa="review-text" slot="content">
+                      It was a great movie.  Only complain is that Thanos CGI facial features make him look stupid.  He looks too human and his features look abnormally small compared to his head and rest of body.  
+                  </p>
+<button class="button--link" slot="ctaClose">Show Less</button>
+<button class="button--link" slot="ctaOpen">Show More</button>
+</drawer-more>
+<div class="review-flag-btn__wrapper">
+<button class="js-review-flag-btn review-flag-btn review-flag-btn--right" data-author-id="cc716381-26c3-4676-b5db-e1ba5981f755" data-author-realm="RT" data-review-id="1acbe199-390a-4356-84fa-622cc1d425a8">
+                          Flag this review
+                  </button>
+</div>
+</div>
+</div>
+<div class="audience-review-row" data-qa="review-item" tabindex="0">
+<div class="review-data">
+<a href="/profiles/6y8IWBFYNfgdiB8H6nIrAsG4S99CeZIancDYHmQFNNCqaip1TZ1HxRCnnCvauYBIWeIkmSmmCjbCBdigKS2MFgVCw2Cvlhg9uGnTKgtWaFeA">
+<span class="audience-review__default-image"></span>
+</a>
+<div class="audience-reviews__name-wrap">
+<a class="audience-reviews__name" data-qa="review-name" href="/profiles/6y8IWBFYNfgdiB8H6nIrAsG4S99CeZIancDYHmQFNNCqaip1TZ1HxRCnnCvauYBIWeIkmSmmCjbCBdigKS2MFgVCw2Cvlhg9uGnTKgtWaFeA">
+                              Josiah B
+                          </a>
+</div>
+</div>
+<div class="review-text-container">
+<div class="audience-review-meta">
+<rating-stars-group score="5"></rating-stars-group>
+<span class="audience-reviews__duration" data-qa="review-duration">Feb 25, 2025</span>
+</div>
+<drawer-more maxlines="6" skeleton="text" status="closed">
+<p class="audience-reviews__review js-review-text" data-qa="review-text" slot="content">
+                      This movie brought the MCU together in a way that has never before been seen. Characters from across the universe found their place alongside each other for arguably one of the most epic battles in cinema history. 
+
+It's hard to find something bad to say about Avengers: Endgame. From iconic scenes and lines, to a rich and complex plot that throws some *foreseeable* twists and turns, Avengers: Endgame has surely secured itself a high-up spot in the movie hall of fame.
+                  </p>
+<button class="button--link" slot="ctaClose">Show Less</button>
+<button class="button--link" slot="ctaOpen">Show More</button>
+</drawer-more>
+<div class="review-flag-btn__wrapper">
+<button class="js-review-flag-btn review-flag-btn review-flag-btn--right" data-author-id="a9340712-afcc-450e-8772-ee29ee685dc2" data-author-realm="RT" data-review-id="d4a11e30-7fb2-4aa0-bb27-0738173a9605">
+                          Flag this review
+                  </button>
+</div>
+</div>
+</div>
+<div class="audience-review-row" data-qa="review-item" tabindex="0">
+<div class="review-data">
+<a href="/profiles/qA0FORTpzSl1FNwHagC2WCkLHzzCZpCldCMBTkzcmmCkniYWuZpSRlSXXCAYFaLsojia9uPPC1ZhaOuwbTXLFGat6OuqRIwZFXrhVotOGhw6">
+<span class="audience-review__default-image"></span>
+</a>
+<div class="audience-reviews__name-wrap">
+<a class="audience-reviews__name" data-qa="review-name" href="/profiles/qA0FORTpzSl1FNwHagC2WCkLHzzCZpCldCMBTkzcmmCkniYWuZpSRlSXXCAYFaLsojia9uPPC1ZhaOuwbTXLFGat6OuqRIwZFXrhVotOGhw6">
+                              rehan z
+                          </a>
+</div>
+</div>
+<div class="review-text-container">
+<div class="audience-review-meta">
+<rating-stars-group score="5"></rating-stars-group>
+<span class="audience-reviews__duration" data-qa="review-duration">Feb 24, 2025</span>
+</div>
+<drawer-more maxlines="6" skeleton="text" status="closed">
+<p class="audience-reviews__review js-review-text" data-qa="review-text" slot="content">
+                      Marvel Studios delivered the perfect culmination of over a decade of storytelling with Avengers: Endgame. This film is nothing short of a cinematic event, blending action, emotion, and nostalgia into an unforgettable experience.
+
+The storytelling is masterful, rewarding longtime fans with heartfelt character moments, jaw-dropping action sequences, and a deeply satisfying conclusion. The performances are phenomenal, especially from Robert Downey Jr. and Chris Evans, whose arcs bring powerful emotional weight to the film. The final battle is one of the most epic moments in movie history, packed with fan service done right.
+
+Whether you’re a die-hard Marvel fan or just a casual viewer, Endgame is an emotional rollercoaster that delivers on every front. It’s the perfect send-off for beloved characters and a triumphant celebration of the Marvel Cinematic Universe. A must-watch!
+                  </p>
+<button class="button--link" slot="ctaClose">Show Less</button>
+<button class="button--link" slot="ctaOpen">Show More</button>
+</drawer-more>
+<div class="review-flag-btn__wrapper">
+<button class="js-review-flag-btn review-flag-btn review-flag-btn--right" data-author-id="9529fee0-fe5f-4822-9148-6859ea796d6a" data-author-realm="RT" data-review-id="6e67072b-77ad-44ec-96d6-e872bba33770">
+                          Flag this review
+                  </button>
+</div>
+</div>
+</div>
+<div class="audience-review-row" data-qa="review-item" tabindex="0">
+<div class="review-data">
+<a href="/profiles/Pd6uqBClnuMdcBWC92uwGC8jSZZCXKtABigoT29HaaClKiOnTZlSegsBBC96uvZugkSqBCqqCeNIY2fGOsr0ulNuAXHZjFDnSrgfmLfGZTyl">
+<span class="audience-review__default-image"></span>
+</a>
+<div class="audience-reviews__name-wrap">
+<a class="audience-reviews__name" data-qa="review-name" href="/profiles/Pd6uqBClnuMdcBWC92uwGC8jSZZCXKtABigoT29HaaClKiOnTZlSegsBBC96uvZugkSqBCqqCeNIY2fGOsr0ulNuAXHZjFDnSrgfmLfGZTyl">
+                              William D
+                          </a>
+</div>
+</div>
+<div class="review-text-container">
+<div class="audience-review-meta">
+<rating-stars-group score="0.5"></rating-stars-group>
+<span class="audience-reviews__duration" data-qa="review-duration">Feb 23, 2025</span>
+</div>
+<drawer-more maxlines="6" skeleton="text" status="closed">
+<p class="audience-reviews__review js-review-text" data-qa="review-text" slot="content">
+                      Terrible, if you like eating paint and drinking bleach while getting dragged against the road, this movie is for you!
+                  </p>
+<button class="button--link" slot="ctaClose">Show Less</button>
+<button class="button--link" slot="ctaOpen">Show More</button>
+</drawer-more>
+<div class="review-flag-btn__wrapper">
+<button class="js-review-flag-btn review-flag-btn review-flag-btn--right" data-author-id="bebbe8ec-c450-4521-882e-731bb0c2335c" data-author-realm="RT" data-review-id="82a309d7-351a-41ad-879e-01fd5c352dd5">
+                          Flag this review
+                  </button>
+</div>
+</div>
+</div>
+<div class="audience-review-row" data-qa="review-item" tabindex="0">
+<div class="review-data">
+<a href="/profiles/OGrIdvug8TrpswDijzIBxHMjskkC8xSr8cbet06T22CNniz4I4LHL8fKKCnOFb1Ie2fRjCGGCmzInmckWHlvuoYcr1uKeuDesmBuq8IaQt8p">
+<span class="audience-review__default-image"></span>
+</a>
+<div class="audience-reviews__name-wrap">
+<a class="audience-reviews__name" data-qa="review-name" href="/profiles/OGrIdvug8TrpswDijzIBxHMjskkC8xSr8cbet06T22CNniz4I4LHL8fKKCnOFb1Ie2fRjCGGCmzInmckWHlvuoYcr1uKeuDesmBuq8IaQt8p">
+                              Adam H
+                          </a>
+</div>
+</div>
+<div class="review-text-container">
+<div class="audience-review-meta">
+<rating-stars-group score="4.5"></rating-stars-group>
+<span class="audience-reviews__duration" data-qa="review-duration">Feb 22, 2025</span>
+</div>
+<drawer-more maxlines="6" skeleton="text" status="closed">
+<p class="audience-reviews__review js-review-text" data-qa="review-text" slot="content">
+                      Avengers: Endgame, is a great movie that ends every loved character story perfectly.
+                  </p>
+<button class="button--link" slot="ctaClose">Show Less</button>
+<button class="button--link" slot="ctaOpen">Show More</button>
+</drawer-more>
+<div class="review-flag-btn__wrapper">
+<button class="js-review-flag-btn review-flag-btn review-flag-btn--right" data-author-id="b8514a01-2fdc-470f-973e-af0bfb8187d5" data-author-realm="RT" data-review-id="c7ad2066-f1c7-4feb-b6b3-9dcacc467b86">
+                          Flag this review
+                  </button>
+</div>
+</div>
+</div>
+<div class="audience-review-row" data-qa="review-item" tabindex="0">
+<div class="review-data">
+<a href="/profiles/gyeHaxsZXIPyTOPU8wfNZimjSDDCRrfzwFxRFpOSMMCGPixVu6xHj1TwwCnpIQRsWrSLMsllCGWCZ1TeJFRkSG2uYPTOZHADFbPHrRSnzIBq">
+<span class="audience-review__default-image"></span>
+</a>
+<div class="audience-reviews__name-wrap">
+<a class="audience-reviews__name" data-qa="review-name" href="/profiles/gyeHaxsZXIPyTOPU8wfNZimjSDDCRrfzwFxRFpOSMMCGPixVu6xHj1TwwCnpIQRsWrSLMsllCGWCZ1TeJFRkSG2uYPTOZHADFbPHrRSnzIBq">
+                              Manuel-Alejandro  F
+                          </a>
+</div>
+</div>
+<div class="review-text-container">
+<div class="audience-review-meta">
+<rating-stars-group score="5"></rating-stars-group>
+<span class="audience-reviews__duration" data-qa="review-duration">Feb 21, 2025</span>
+</div>
+<drawer-more maxlines="6" skeleton="text" status="closed">
+<p class="audience-reviews__review js-review-text" data-qa="review-text" slot="content">
+                      Absolutely satisfying ending to an amazing saga, hopefully Marvel Studios will be able to recreate this, or even improve it. 
+                  </p>
+<button class="button--link" slot="ctaClose">Show Less</button>
+<button class="button--link" slot="ctaOpen">Show More</button>
+</drawer-more>
+<div class="review-flag-btn__wrapper">
+<button class="js-review-flag-btn review-flag-btn review-flag-btn--right" data-author-id="0175f342-d992-4805-a121-b5c2c5090278" data-author-realm="RT" data-review-id="032fabd8-d8cc-4258-8893-77931b8e29d5">
+                          Flag this review
+                  </button>
+</div>
+</div>
+</div>
+<div class="audience-review-row" data-qa="review-item" tabindex="0">
+<div class="review-data">
+<a href="/profiles/NXeSWrskqImQIopfZyfmbcQ0TbbCArH86Hv4FZGIRRCv9izyizAtjdSGGCRAI4YhrQtjJH99CDxfjWflKckxsv4SKxuoliwys6msa6IBaSGz">
+<span class="audience-review__default-image"></span>
+</a>
+<div class="audience-reviews__name-wrap">
+<a class="audience-reviews__name" data-qa="review-name" href="/profiles/NXeSWrskqImQIopfZyfmbcQ0TbbCArH86Hv4FZGIRRCv9izyizAtjdSGGCRAI4YhrQtjJH99CDxfjWflKckxsv4SKxuoliwys6msa6IBaSGz">
+                              Logan C
+                          </a>
+</div>
+</div>
+<div class="review-text-container">
+<div class="audience-review-meta">
+<rating-stars-group score="5"></rating-stars-group>
+<span class="audience-reviews__duration" data-qa="review-duration">Feb 21, 2025</span>
+</div>
+<drawer-more maxlines="6" skeleton="text" status="closed">
+<p class="audience-reviews__review js-review-text" data-qa="review-text" slot="content">
+                      This was a definite conclusion to the Infinity Saga. The most anticipated film, it had many heartfelt moments that impacted the MCU for years to come. The original six brought so much to people during this movie. There were a lot of fun moments and some that were very surprising. Not to mention the emotional depth brought some tears when it got closer to the end. Still, a once-in-a-lifetime success to this film and one of the best final battles of all time. 
+                  </p>
+<button class="button--link" slot="ctaClose">Show Less</button>
+<button class="button--link" slot="ctaOpen">Show More</button>
+</drawer-more>
+<div class="review-flag-btn__wrapper">
+<button class="js-review-flag-btn review-flag-btn review-flag-btn--right" data-author-id="217733fc-0d9a-44d2-a6d0-33f128411a24" data-author-realm="RT" data-review-id="3b0d49b8-c979-4544-bcc4-8a9535143e90">
+                          Flag this review
+                  </button>
+</div>
+</div>
+</div>
+<div class="audience-review-row" data-qa="review-item" tabindex="0">
+<div class="review-data">
+<a href="/profiles/YkdFGXh9oSapIxJCPKSD4s1Of66CRpHxPCA8S91iKKCqviOAsAjSBZtvvCG9SKJFo0uJqSzzC4LTmofR2HkoHmvTxWIR6CGbiaDCdgfmrtp8">
+<span class="audience-review__default-image"></span>
+</a>
+<div class="audience-reviews__name-wrap">
+<a class="audience-reviews__name" data-qa="review-name" href="/profiles/YkdFGXh9oSapIxJCPKSD4s1Of66CRpHxPCA8S91iKKCqviOAsAjSBZtvvCG9SKJFo0uJqSzzC4LTmofR2HkoHmvTxWIR6CGbiaDCdgfmrtp8">
+                              John J
+                          </a>
+</div>
+</div>
+<div class="review-text-container">
+<div class="audience-review-meta">
+<rating-stars-group score="5"></rating-stars-group>
+<span class="audience-reviews__duration" data-qa="review-duration">Feb 21, 2025</span>
+</div>
+<drawer-more maxlines="6" skeleton="text" status="closed">
+<p class="audience-reviews__review js-review-text" data-qa="review-text" slot="content">
+                      Great ending for Thanos saga.
+                  </p>
+<button class="button--link" slot="ctaClose">Show Less</button>
+<button class="button--link" slot="ctaOpen">Show More</button>
+</drawer-more>
+<div class="review-flag-btn__wrapper">
+<button class="js-review-flag-btn review-flag-btn review-flag-btn--right" data-author-id="962ae213-0e24-4e2c-b9b2-e3005ae4e3de" data-author-realm="RT" data-review-id="4b946d6d-1789-43de-b06f-4bd8008a506a">
+                          Flag this review
+                  </button>
+</div>
+</div>
+</div>
+<div class="audience-review-row" data-qa="review-item" tabindex="0">
+<div class="review-data">
+<span class="audience-review__default-image"></span>
+<div class="audience-reviews__name-wrap">
+</div>
+</div>
+<div class="review-text-container">
+<div class="audience-review-meta">
+<rating-stars-group score="4.5"></rating-stars-group>
+<span class="audience-reviews__duration" data-qa="review-duration">Feb 19, 2025</span>
+</div>
+<drawer-more maxlines="6" skeleton="text" status="closed">
+<p class="audience-reviews__review js-review-text" data-qa="review-text" slot="content">
+                      Good movie ending in a climatic way to sum up the Avengers. Don’t like the fact how they reduced the hulk and Thor 
+                  </p>
+<button class="button--link" slot="ctaClose">Show Less</button>
+<button class="button--link" slot="ctaOpen">Show More</button>
+</drawer-more>
+<div class="review-flag-btn__wrapper">
+<button class="js-review-flag-btn review-flag-btn review-flag-btn--right" data-author-id="edb91e0a-1f97-4de4-8780-3efd20c96c6f" data-author-realm="Flixster" data-review-id="9947c80c-d6d4-4258-9ad8-328e61fbee6e">
+                          Flag this review
+                  </button>
+</div>
+</div>
+</div>
+<div class="audience-review-row" data-qa="review-item" tabindex="0">
+<div class="review-data">
+<a href="/profiles/2xvFWxhZoSJDS9vfe0igvS1xIxxCbju6pTvYfpMSAACnqi2ws8eiart44CPLIb1ukysQ0uNNCP1hzjCADSk1IbmIL9FBMsPyF9LIZzFdlI02">
+<span class="audience-review__default-image"></span>
+</a>
+<div class="audience-reviews__name-wrap">
+<a class="audience-reviews__name" data-qa="review-name" href="/profiles/2xvFWxhZoSJDS9vfe0igvS1xIxxCbju6pTvYfpMSAACnqi2ws8eiart44CPLIb1ukysQ0uNNCP1hzjCADSk1IbmIL9FBMsPyF9LIZzFdlI02">
+                              Ash P
+                          </a>
+</div>
+</div>
+<div class="review-text-container">
+<div class="audience-review-meta">
+<rating-stars-group score="4.5"></rating-stars-group>
+<span class="audience-reviews__duration" data-qa="review-duration">Feb 18, 2025</span>
+</div>
+<drawer-more maxlines="6" skeleton="text" status="closed">
+<p class="audience-reviews__review js-review-text" data-qa="review-text" slot="content">
+                      Reaching the Endgame as the title suggests for the Infinity Saga after re-watching it six years later does make me wonder why this is one of the most loved movies out there for not only MCU fans, but for every moviegoer back then before the COVID pandemic.  The journey is why.
+Traveling though time to get the Infinity Stones with the help of Scott Lang who was in the Quantum Realm, which I assume after Ant-Man and Wasp, who came back to learn about the Thanos Snap five years later.  We see everyone who is still around traveling through various points in time, or rather bluntly, in previous movies such as The Avengers, Thor: The Dark World, and Guardians of the Galaxy.  It's interesting to see everyone go through the scenes without interfering as much as possible unless they have to come in the way.
+Now, the journey isn't as simple as you'd think of when the heroes had to pick up the Infinity Stones.  It also brings some forms of emotion from nostalgia to the feel of need like Thor seeing his mother again in 2013, Tony seeing his dad back in 1970 along with Steve seeing Peggy again.  The interesting part of the film is that unlike Infinity War being more action than drama, this movie is more drama with little action, which works as what I'd pointed out.  Even the humor is similar to how previous films had always been that you'd get a chuckle or two out.  I had a few on my end since it's been so long since I've seen this movie alone.
+Speaking of the action, the big one was saved for the finale when Thanos had taken notice.  Sure, it's a spoiler, but it's as much as I can share since it was more or less a grand finale for a bigger threat such as Thanos himself.  Yet this journey does not end lightly.  Sacrifices had to be made.  Some that were necessary and one of them passing the torch to someone whom he calls a great friend.  If you're reading this and already know who, you'd know them.  Those who didn't I'd suggest you'd give it a watch.  Just a heads up, this is a three hour movie, and it could rub some folks off the wrong way, which I can understand some others' criticism involving the time.  As for me, I'm used to such myself.
+With that being said, this movie still holds up, even when I'd say I enjoy Infinity War more, yet can still say this movie is up to the top of their tier list of MCU films.  An end of one Saga and a beginning to a new one.  I give this film nine and a half Thanos declaring inevitability out of ten.  9.5/10.
+                  </p>
+<button class="button--link" slot="ctaClose">Show Less</button>
+<button class="button--link" slot="ctaOpen">Show More</button>
+</drawer-more>
+<div class="review-flag-btn__wrapper">
+<button class="js-review-flag-btn review-flag-btn review-flag-btn--right" data-author-id="c62c3427-8532-414d-a81b-6ec77c19fc72" data-author-realm="RT" data-review-id="37295987-0c52-47e7-b726-8389c2081f29">
+                          Flag this review
+                  </button>
+</div>
+</div>
+</div>
+<div class="audience-review-row" data-qa="review-item" tabindex="0">
+<div class="review-data">
+<a href="/profiles/BQGiW9ielsdnIrxf96IKOH1DFVVCqvI8kTApiYKt99Cj9iJ6T9wfRQuDDCPDFdwuOYFvahppCMAHlvTNoS9wCLpf6XhavuLXI2Bsx9FrVFlv">
+<span class="audience-review__default-image"></span>
+</a>
+<div class="audience-reviews__name-wrap">
+<a class="audience-reviews__name" data-qa="review-name" href="/profiles/BQGiW9ielsdnIrxf96IKOH1DFVVCqvI8kTApiYKt99Cj9iJ6T9wfRQuDDCPDFdwuOYFvahppCMAHlvTNoS9wCLpf6XhavuLXI2Bsx9FrVFlv">
+                              Kristeen L
+                          </a>
+</div>
+</div>
+<div class="review-text-container">
+<div class="audience-review-meta">
+<rating-stars-group score="2.5"></rating-stars-group>
+<span class="audience-reviews__duration" data-qa="review-duration">Feb 17, 2025</span>
+</div>
+<drawer-more maxlines="6" skeleton="text" status="closed">
+<p class="audience-reviews__review js-review-text" data-qa="review-text" slot="content">
+                      boring. 3 hours was a bit excessive. but I'm watching the newest now in theatures and its the same.... boring. 2025
+                  </p>
+<button class="button--link" slot="ctaClose">Show Less</button>
+<button class="button--link" slot="ctaOpen">Show More</button>
+</drawer-more>
+<div class="review-flag-btn__wrapper">
+<button class="js-review-flag-btn review-flag-btn review-flag-btn--right" data-author-id="4b1a37e9-a5dd-4538-9896-052e36ba1c97" data-author-realm="RT" data-review-id="8c712fdc-c7a4-4d79-99c0-6c126eeb9d71">
+                          Flag this review
+                  </button>
+</div>
+</div>
+</div>
+<div class="audience-review-row" data-qa="review-item" tabindex="0">
+<div class="review-data">
+<a href="/profiles/z6NU41iRJIjpF6bFJPhWwHNxhmmC1WSjNtWkcB4SqqCzNi1Bi0oS2AsvvCamuBQtNDIBqfAACQ0HBxSK1sxduPmfb6Tm9TbMCgASPwFLVSmR">
+<span class="audience-review__default-image"></span>
+</a>
+<div class="audience-reviews__name-wrap">
+<a class="audience-reviews__name" data-qa="review-name" href="/profiles/z6NU41iRJIjpF6bFJPhWwHNxhmmC1WSjNtWkcB4SqqCzNi1Bi0oS2AsvvCamuBQtNDIBqfAACQ0HBxSK1sxduPmfb6Tm9TbMCgASPwFLVSmR">
+                              Jose Francisco Q
+                          </a>
+</div>
+</div>
+<div class="review-text-container">
+<div class="audience-review-meta">
+<rating-stars-group score="5"></rating-stars-group>
+<span class="audience-reviews__duration" data-qa="review-duration">Feb 16, 2025</span>
+</div>
+<drawer-more maxlines="6" skeleton="text" status="closed">
+<p class="audience-reviews__review js-review-text" data-qa="review-text" slot="content">
+                      
+Without a doubt the best Avengers movie, solving all the problems I had with the previous ones, making the movie the best Avengers movie.
+                  </p>
+<button class="button--link" slot="ctaClose">Show Less</button>
+<button class="button--link" slot="ctaOpen">Show More</button>
+</drawer-more>
+<div class="review-flag-btn__wrapper">
+<button class="js-review-flag-btn review-flag-btn review-flag-btn--right" data-author-id="e4799606-2df2-4421-8f73-0c18355e292d" data-author-realm="RT" data-review-id="a6ab5cff-09f6-442c-8a20-b423a800aeed">
+                          Flag this review
+                  </button>
+</div>
+</div>
+</div>
+<empty-state data-loadmoremanager="emptyState" hidden="" image="question-mark" skeleton="panel">
+<div class="empty-state-content" slot="content">
+<rt-text context="label" data-qa="no-reviews-text">
+            No All Audience reviews for Avengers: Endgame
+        </rt-text>
+</div>
+</empty-state>
+</div>
+<div class="load-more-container">
+<rt-button class="hide" data-loadmoremanager="btnLoadMore:click" data-qa="load-more-btn" skeleton="chip">
+            Load More
+        </rt-button>
+</div>
+<review-flag-modal emsid="7b2bcd9a-359f-3ffd-bbbd-abe9e5ce3f9e" mediatype="movie" type="user">
+</review-flag-modal>
+<a class="report-review mobile-visible" href="https://fandango.az1.qualtrics.com/jfe/form/SV_3NMwx66TSe9KAfz" rel="noopener" target="_blank">
+                        Do you think we mischaracterized a critic's review?
+                    </a>
+</div>
+</section>
+<ad-unit hidden="" unitdisplay="mobile" unittype="mboxadone">
+<div class="rectangle_ad" slot="adInject"></div>
+</ad-unit>
+</div>
+</div>
+<back-to-top hidden=""></back-to-top>
+</main>
+<ad-unit hidden="" unitdisplay="desktop" unittype="bottombanner">
+<div class="sleaderboard_wrapper" slot="adInject"></div>
+</ad-unit>
+<ads-global-skin-takeover-manager></ads-global-skin-takeover-manager>
+<footer-manager></footer-manager>
+<footer class="footer container" data-pagepicturesmanager="footer">
+<div class="footer__content-desktop-block" data-qa="footer:section">
+<div class="footer__content-group">
+<ul class="footer__links-list">
+<li class="footer__links-list-item">
+<a data-qa="footer:link-helpdesk" href="/help_desk">Help</a>
+</li>
+<li class="footer__links-list-item">
+<a data-qa="footer:link-about" href="/about">About Rotten Tomatoes</a>
+</li>
+<li class="footer__links-list-item" data-qa="footer-feedback-desktop" id="footer-feedback">
+</li>
+</ul>
+</div>
+<div class="footer__content-group">
+<ul class="footer__links-list">
+<li class="footer__links-list-item">
+<a data-qa="footer:link-critic-submission" href="/critics/criteria">Critic Submission</a>
+</li>
+<li class="footer__links-list-item">
+<a data-qa="footer:link-licensing" href="/help_desk/licensing">Licensing</a>
+</li>
+<li class="footer__links-list-item">
+<a data-qa="footer:link-ads" href="https://together.nbcuni.com/advertise/?utm_source=rotten_tomatoes&amp;utm_medium=referral&amp;utm_campaign=property_ad_pages&amp;utm_content=footer" rel="noopener" target="_blank">Advertise With Us</a>
+</li>
+<li class="footer__links-list-item">
+<a data-qa="footer:link-careers" href="//www.fandango.com/careers" rel="noopener" target="_blank">Careers</a>
+</li>
+</ul>
+</div>
+<div class="footer__content-group footer__newsletter-block">
+<p class="h3 footer__content-group-title">
+<rt-icon icon="mail" size="1.25" style="fill:#fff"></rt-icon> Join the Newsletter
+            </p>
+<p class="footer__newsletter-copy">Get the freshest reviews, news, and more delivered right to your inbox!</p>
+<rt-button data-footermanager="btnNewsLetter:click" data-qa="footer-newsletter-desktop">
+                Join The Newsletter
+            </rt-button>
+<a class="button footer__newsletter-btn hide" data-footermanager="linkNewsLetter" rel="noopener" target="_blank">
+                Join The Newsletter
+            </a>
+</div>
+<div class="footer__content-group footer__social-block" data-qa="footer:social">
+<p class="h3 footer__content-group-title">Follow Us</p>
+<social-media-icons size="20" theme="light"></social-media-icons>
+</div>
+</div>
+<div class="footer__content-mobile-block" data-qa="mfooter:section">
+<div class="footer__content-group">
+<p class="footer__copyright-legal" data-qa="mfooter:copyright">
+                Copyright © Fandango. All rights reserved.
+            </p>
+<rt-button data-footermanager="btnNewsLetter:click" data-qa="footer-newsletter-mobile">Join The Newsletter</rt-button>
+<a class="button footer__newsletter-btn hide" data-footermanager="linkNewsLetter" rel="noopener" target="_blank">Join The Newsletter</a>
+<ul class="footer__links-list list-inline">
+<li class="footer__links-list-item">
+<a data-qa="mfooter:link-privacy-policy" href="https://www.nbcuniversal.com/fandango-privacy-policy" rel="noopener" target="_blank">
+                        Privacy Policy
+                    </a>
+</li>
+<li class="footer__links-list-item">
+<a data-qa="mfooter:link-terms-policies" href="/policies/terms-and-policies">Terms and Policies</a>
+</li>
+<li class="footer__links-list-item">
+<img alt="CCPA icon" class="footer__ccpa-icon" data-footermanager="iconCCPA" loading="lazy" src="https://images.fandango.com/cms/assets/266533e0-7afb-11ed-83f2-4f600722b564--privacyoptions.svg"/>
+<!-- OneTrust Cookies Settings button start -->
+<a class="ot-sdk-show-settings mobile" data-qa="footer-cookie-settings-mobile" href="javascript:void(0)" id="ot-sdk-btn">Cookie Settings</a>
+<!-- OneTrust Cookies Settings button end -->
+</li>
+<li class="footer__links-list-item">
+<a data-qa="mfooter:link-california-notice" href="https://www.nbcuniversal.com/privacy/california-consumer-privacy-act" rel="noopener" target="_blank">California Notice</a>
+</li>
+<li class="footer__links-list-item">
+<a data-qa="mfooter:link-adChoices" href="https://www.nbcuniversal.com/privacy/cookies#accordionheader2" rel="noopener" target="_blank">Ad Choices</a>
+</li>
+<li class="footer__links-list-item" data-qa="footer-feedback-mobile" id="footer-feedback-mobile">
+</li>
+<li class="footer__links-list-item">
+<a data-qa="mfooter:link-accessibility" href="/faq#accessibility">Accessibility</a>
+</li>
+</ul>
+</div>
+</div>
+<div class="footer__copyright">
+<ul class="footer__links-list list-inline list-inline--separator" data-qa="footer:links-list-privacy">
+<li class="footer__links-list-item version" data-qa="footer:version">
+<span>V3.1</span>
+</li>
+<li class="footer__links-list-item">
+<a data-qa="footer:link-privacy-policy" href="https://www.nbcuniversal.com/fandango-privacy-policy" rel="noopener" target="_blank">
+                    Privacy Policy
+                </a>
+</li>
+<li class="footer__links-list-item">
+<a data-qa="footer:link-terms-policies" href="/policies/terms-and-policies">Terms and Policies</a>
+</li>
+<li class="footer__links-list-item">
+<img alt="CCPA icon" class="footer__ccpa-icon" data-footermanager="iconCCPA" loading="lazy" src="https://images.fandango.com/cms/assets/266533e0-7afb-11ed-83f2-4f600722b564--privacyoptions.svg"/>
+<!-- OneTrust Cookies Settings button start -->
+<a class="ot-sdk-show-settings" data-qa="footer-cookie-settings-desktop" href="javascript:void(0)" id="ot-sdk-btn">Cookie Settings</a>
+<!-- OneTrust Cookies Settings button end -->
+</li>
+<li class="footer__links-list-item">
+<a data-qa="footer:link-california-notice" href="https://www.nbcuniversal.com/privacy/california-consumer-privacy-act" rel="noopener" target="_blank">California Notice</a>
+</li>
+<li class="footer__links-list-item">
+<a data-qa="footer:link-adChoices" href="https://www.nbcuniversal.com/privacy/cookies#accordionheader2" rel="noopener" target="_blank">Ad Choices</a>
+</li>
+<li class="footer__links-list-item">
+<a data-qa="footer:link-accessibility" href="/faq#accessibility">Accessibility</a>
+</li>
+</ul>
+<span class="footer__copyright-legal" data-qa="footer:copyright">
+            Copyright © Fandango. A Division of
+            <a data-qa="footer:link-nbcuniversal" href="https://www.nbcuniversal.com" rel="noopener" target="_blank">NBCUniversal</a>.
+            All rights reserved.
+        </span>
+</div>
+</footer>
+</div>
+<script type="text/javascript">
+      (function (root) {
+        /* -- Data -- */
+        root.RottenTomatoes || (root.RottenTomatoes = {});
+root.RottenTomatoes.context || (root.RottenTomatoes.context = {});
+root.RottenTomatoes.context.resetCookies = ["AMCVS_8CF467C25245AE3F0A490D4C%40AdobeOrg","AMCV_8CF467C25245AE3F0A490D4C%40AdobeOrg","WRIgnore","WRUIDAWS","__CT_Data","__gads","_admrla","_awl","_cs_c","_cs_id","_cs_mk","_cs_s","_fbp","_ga","_gat_gtmTracker","_gid","aam_uuid","akamai_generated_location","auth_token","auth_user","auth_client","check","cognito","fblo_326803741017","fbm_326803741017","fbsr_326803741017","gpv_Page","id_token","is_auth","loginPlatform","mbox","notice_behavior","optimizelyBuckets","optimizelyEndUserId","optimizelyPendingLogEvents","optimizelySegments","s_cc","s_dayslastvisit","s_dayslastvisit_s","s_invisit","s_prevPage","s_sq","s_vnum","cognito","fbm_326803741017","fbsr_326803741017","id_token","JSESSIONID","QSI_HistorySession","QSI_SI_8up4dWDOtjAg0hn_intercept","_ALGOLIA","__Host-color-scheme","__Host-theme-options","__host_color_scheme","__host_theme_options","_cb","_cb_ls","_cb_svref","_chartbeat2","_chartbeat4","_chartbeat5","_sp_id.47f3","_sp_ses.47f3","_v__chartbeat3","adops_master_kvs","akacd_RTReplatform","algoliaUT","cognito","cl_duid","fbsr_326803741017","id_token","mps_uuid","session_id","_admrla","_awl","_ga","_gid","aam_uuid","cognito","fbm_326803741017","id_token","_cb","_cb_ls","_cb_svref","_chartbeat2","adops_master_kvs","cognito","id_token","krg_crb","krg_uid","mps_uuid"];
+root.Fandango || (root.Fandango = {});
+root.Fandango.dtmData = {"webVersion":"node","rtVersion":3.1,"loggedInStatus":"","customerId":"","pageName":"trailers"};
+root.RottenTomatoes.context.franchiseId = "c1229209-47c1-3e8f-a1d7-8b90291a3975";
+root.RottenTomatoes.context.franchiseVeneerMoviesAndTvList = [{"audienceScore":{"score":"84","scoreSentiment":"POSITIVE","certifiedFresh":"none","certified":false,"scorePercent":"84%"},"directors":["Louis Leterrier"],"emsId":"00b20d93-6265-3079-a0da-de975d7ff0b1","exeProducers":["Joseph Caracciolo Jr.","David Cain","Chris Morgan","Amanda Lewis","Mark Bomback"],"imageUrl":"https:\u002F\u002Fresizing.flixster.com\u002FMQwHilOB18wHj3daf6qJceM3yic=\u002F206x305\u002Fv2\u002Fhttps:\u002F\u002Fresizing.flixster.com\u002F8ZFc4VKwZN8NGV3ZqhCIFCHekxM=\u002Fems.cHJkLWVtcy1hc3NldHMvbW92aWVzLzJlNDAyYWUzLWEwZTUtNDVlNy04MDliLTRmZWIzNDMzMzJmYS5qcGc=","title":"Fast X","tomatometerScore":57,"tomatometerState":"rotten","top3Cast":["Vin Diesel","Michelle Rodriguez","Tyrese Gibson"],"type":"Movie","url":"\u002Fm\u002Ffast_x","releaseYear":"2023","presentationDate":"(2023)"},{"audienceScore":{"score":"82","scoreSentiment":"POSITIVE","certifiedFresh":"none","certified":false,"scorePercent":"82%"},"directors":["Justin Lin"],"emsId":"6490d427-6414-39aa-9cf6-cbe57102f87a","exeProducers":[],"imageUrl":"https:\u002F\u002Fresizing.flixster.com\u002FEXgP2_38eRm2XQtaPIe_XOYSuuc=\u002F206x305\u002Fv2\u002Fhttps:\u002F\u002Fresizing.flixster.com\u002FRYaXF6wKOa0WI2I2lY2DGkvWOgk=\u002Fems.cHJkLWVtcy1hc3NldHMvbW92aWVzLzdhYTRiMjQ1LWMyMDctNGM1MC1iYzY3LWIzM2VhNmU0MTlkOC5qcGc=","title":"F9 The Fast Saga","tomatometerScore":59,"tomatometerState":"rotten","top3Cast":["Vin Diesel","Michelle Rodriguez","Jordana Brewster"],"type":"Movie","url":"\u002Fm\u002Ff9","releaseYear":"2021","presentationDate":"(2021)"},{"audienceScore":{"score":"69","scoreSentiment":"POSITIVE","certified":false,"scorePercent":"69%"},"directors":[],"emsId":"597c2fb6-e277-383f-b95d-6c6813beaaf1","exeProducers":["Vin Diesel","Neal H. Moritz","Chris Morgan","Tim Hedrick","Bret Haaland"],"imageUrl":"https:\u002F\u002Fresizing.flixster.com\u002FoALXJ7EyvQo6-NmFAppHmWCZnGg=\u002F206x305\u002Fv2\u002Fhttps:\u002F\u002Fresizing.flixster.com\u002FAvQ4yUhDi4jgcoWK3vJFz1-byKY=\u002Fems.cHJkLWVtcy1hc3NldHMvdHZzZXJpZXMvUlRUVjYxNTgxNy53ZWJw","title":"Fast & Furious: Spy Racers","tomatometerScore":null,"tomatometerState":null,"top3Cast":["Tyler Posey","Camille Ramsey","Luke Youngblood"],"type":"TvSeries","url":"\u002Ftv\u002Ffast_and_furious_spy_racers","releaseYear":"2019","presentationDate":"(2019 - Present)"},{"audienceScore":{"score":"88","scoreSentiment":"POSITIVE","certifiedFresh":"none","certified":false,"scorePercent":"88%"},"directors":["David Leitch"],"emsId":"898439d3-d4fc-3a8e-a265-cb6ebe4e9c5f","exeProducers":["Dany Garcia","Kelly McCormick","Ethan Smith","Ainsley Davies","Steve Chasman"],"imageUrl":"https:\u002F\u002Fresizing.flixster.com\u002FiHdoFgNuxLD89552_OqJhPGtsHc=\u002F206x305\u002Fv2\u002Fhttps:\u002F\u002Fresizing.flixster.com\u002F3junDUcLJvCox0F3MpWAm7zDSbg=\u002Fems.cHJkLWVtcy1hc3NldHMvbW92aWVzL2Q5ODY2MDc2LTBhNzktNDg2Ni04MWE2LTAzNzZlNTM1ODQxYi53ZWJw","title":"Fast & Furious Presents: Hobbs & Shaw","tomatometerScore":67,"tomatometerState":"fresh","top3Cast":["Dwayne Johnson","Jason Statham","Idris Elba"],"type":"Movie","url":"\u002Fm\u002Ffast_and_furious_presents_hobbs_and_shaw","releaseYear":"2019","presentationDate":"(2019)"},{"audienceScore":{"score":"72","scoreSentiment":"POSITIVE","certifiedFresh":"none","certified":false,"scorePercent":"72%"},"directors":["F. Gary Gray"],"emsId":"16c39ad7-8352-34c2-8fcf-66ad01d149b0","exeProducers":["Amanda Lewis","Samantha Vincent"],"imageUrl":"https:\u002F\u002Fresizing.flixster.com\u002FcRdL7b3LXOiD9jij-boSYUQM4aU=\u002F206x305\u002Fv2\u002Fhttps:\u002F\u002Fresizing.flixster.com\u002FJYqN0FuDTI5-OHTI3XdA0Dfyoms=\u002Fems.cHJkLWVtcy1hc3NldHMvbW92aWVzLzBlMTUwZGFhLTZmODAtNGZmYi1iZTkzLTAxNDI2ZWZiODcxYy53ZWJw","title":"The Fate of the Furious","tomatometerScore":67,"tomatometerState":"fresh","top3Cast":["Vin Diesel","Dwayne Johnson","Charlize Theron"],"type":"Movie","url":"\u002Fm\u002Fthe_fate_of_the_furious","releaseYear":"2017","presentationDate":"(2017)"},{"audienceScore":{"score":"82","scoreSentiment":"POSITIVE","certifiedFresh":"none","certified":false,"scorePercent":"82%"},"directors":["James Wan"],"emsId":"bd5d85e4-2ec5-3a26-bc32-f3129e85bd1b","exeProducers":[],"imageUrl":"https:\u002F\u002Fresizing.flixster.com\u002Fpp2CJAdJHuzDncsyo5UgXC8c4YA=\u002F206x305\u002Fv2\u002Fhttps:\u002F\u002Fresizing.flixster.com\u002F-XZAfHZM39UwaGJIFWKAE8fS0ak=\u002Fv3\u002Ft\u002Fassets\u002Fp10679969_p_v8_at.jpg","title":"Furious Seven","tomatometerScore":82,"tomatometerState":"certified-fresh","top3Cast":["Vin Diesel","Paul Walker","Dwayne Johnson"],"type":"Movie","url":"\u002Fm\u002Ffurious_7","releaseYear":"2015","presentationDate":"(2015)"},{"audienceScore":{"score":"84","scoreSentiment":"POSITIVE","certifiedFresh":"none","certified":false,"scorePercent":"84%"},"directors":["Justin Lin"],"emsId":"daaf3a30-c81b-36f8-b606-b1fa4e06ad32","exeProducers":["Justin Lin","Amanda Lewis","Samantha Vincent","Chris Morgan"],"imageUrl":"https:\u002F\u002Fresizing.flixster.com\u002FdJUU6CNK8IBSjsImW4nXCxxUVwU=\u002F206x305\u002Fv2\u002Fhttps:\u002F\u002Fresizing.flixster.com\u002F-XZAfHZM39UwaGJIFWKAE8fS0ak=\u002Fv3\u002Ft\u002Fassets\u002Fp9573130_p_v7_ab.jpg","title":"Fast & Furious 6","tomatometerScore":71,"tomatometerState":"fresh","top3Cast":["Vin Diesel","Paul Walker","Dwayne Johnson"],"type":"Movie","url":"\u002Fm\u002Ffast_and_furious_6","releaseYear":"2013","presentationDate":"(2013)"},{"audienceScore":{"score":"83","scoreSentiment":"POSITIVE","certifiedFresh":"none","certified":false,"scorePercent":"83%"},"directors":["Justin Lin"],"emsId":"11908db6-b627-38a4-8bc8-285b3f635197","exeProducers":["Amanda Lewis","Samantha Vincent","Justin Lin"],"imageUrl":"https:\u002F\u002Fresizing.flixster.com\u002FRpA9CDKwy5EvgaQ2D4T0N9Pk-Ws=\u002F206x305\u002Fv2\u002Fhttps:\u002F\u002Fresizing.flixster.com\u002F-XZAfHZM39UwaGJIFWKAE8fS0ak=\u002Fv3\u002Ft\u002Fassets\u002Fp8338313_p_v10_bb.jpg","title":"Fast Five","tomatometerScore":78,"tomatometerState":"certified-fresh","top3Cast":["Vin Diesel","Paul Walker","Jordana Brewster"],"type":"Movie","url":"\u002Fm\u002Ffast_five","releaseYear":"2011","presentationDate":"(2011)"},{"audienceScore":{"score":"67","scoreSentiment":"POSITIVE","certifiedFresh":"none","certified":false,"scorePercent":"67%"},"directors":["Justin Lin"],"emsId":"cd4cf73e-99f9-3b35-830e-be001d1806d5","exeProducers":["Amanda Lewis","Samantha Vincent"],"imageUrl":"https:\u002F\u002Fresizing.flixster.com\u002Fx3dP2pGqytUs7g6HfGwg9lXTSXU=\u002F206x305\u002Fv2\u002Fhttps:\u002F\u002Fresizing.flixster.com\u002F-XZAfHZM39UwaGJIFWKAE8fS0ak=\u002Fv3\u002Ft\u002Fassets\u002Fp188702_p_v8_bg.jpg","title":"Fast & Furious","tomatometerScore":29,"tomatometerState":"rotten","top3Cast":["Vin Diesel","Paul Walker","Michelle Rodriguez"],"type":"Movie","url":"\u002Fm\u002Ffast_and_furious","releaseYear":"2009","presentationDate":"(2009)"},{"audienceScore":{"score":"69","scoreSentiment":"POSITIVE","certifiedFresh":"none","certified":false,"scorePercent":"69%"},"directors":["Justin Lin"],"emsId":"5be823f5-0903-3058-b4e2-fb1cbc99e42c","exeProducers":["Clayton Townsend","Ryan Kavanaugh","Lynwood Spinks"],"imageUrl":"https:\u002F\u002Fresizing.flixster.com\u002Fl4esuPlsdTaWy-8XJshzZCm570M=\u002F206x305\u002Fv2\u002Fhttps:\u002F\u002Fresizing.flixster.com\u002F-XZAfHZM39UwaGJIFWKAE8fS0ak=\u002Fv3\u002Ft\u002Fassets\u002Fp159790_p_v10_an.jpg","title":"The Fast and the Furious: Tokyo Drift","tomatometerScore":38,"tomatometerState":"rotten","top3Cast":["Lucas Black","Zachery Ty Bryan","Shad \"Bow Wow\" Moss"],"type":"Movie","url":"\u002Fm\u002Ffast_and_the_furious_tokyo_drift","releaseYear":"2006","presentationDate":"(2006)"},{"audienceScore":{"score":"50","scoreSentiment":"NEGATIVE","certified":false,"scorePercent":"50%"},"directors":["John Singleton"],"emsId":"bd603424-330b-3f54-89a1-92a397faf045","exeProducers":["Lee R. Mayes","Michael Fottrell"],"imageUrl":"https:\u002F\u002Fresizing.flixster.com\u002FZT6yN6Nklx1t4S7ht3lfceJhxpk=\u002F206x305\u002Fv2\u002Fhttps:\u002F\u002Fresizing.flixster.com\u002F-XZAfHZM39UwaGJIFWKAE8fS0ak=\u002Fv3\u002Ft\u002Fassets\u002Fp32092_p_v8_ab.jpg","title":"2 Fast 2 Furious","tomatometerScore":37,"tomatometerState":"rotten","top3Cast":["Paul Walker","Tyrese Gibson","Eva Mendes"],"type":"Movie","url":"\u002Fm\u002F2_fast_2_furious","releaseYear":"2003","presentationDate":"(2003)"},{"audienceScore":{"score":"74","scoreSentiment":"POSITIVE","certifiedFresh":"none","certified":false,"scorePercent":"74%"},"directors":["Rob Cohen"],"emsId":"58275ce0-72a1-3f4a-a1e9-b648df8549a3","exeProducers":["Doug Claybourne","John Pogue"],"imageUrl":"https:\u002F\u002Fresizing.flixster.com\u002FFmxbBDqnw3wR6M1qOUwYDLVx3hU=\u002F206x305\u002Fv2\u002Fhttps:\u002F\u002Fresizing.flixster.com\u002F-XZAfHZM39UwaGJIFWKAE8fS0ak=\u002Fv3\u002Ft\u002Fassets\u002Fp27779_p_v8_aw.jpg","title":"The Fast and the Furious","tomatometerScore":55,"tomatometerState":"rotten","top3Cast":["Vin Diesel","Paul Walker","Michelle Rodriguez"],"type":"Movie","url":"\u002Fm\u002F1108372-fast_and_the_furious","releaseYear":"2001","presentationDate":"(2001)"}];
+root.RottenTomatoes.context.imagesJson = undefined;
+root.RottenTomatoes.context.titlesInFranchise = [{"audienceScore":{"score":"84","scoreSentiment":"POSITIVE","certifiedFresh":"none","certified":false,"scorePercent":"84%"},"directors":["Louis Leterrier"],"emsId":"00b20d93-6265-3079-a0da-de975d7ff0b1","exeProducers":["Joseph Caracciolo Jr.","David Cain","Chris Morgan","Amanda Lewis","Mark Bomback"],"imageUrl":"https:\u002F\u002Fresizing.flixster.com\u002FMQwHilOB18wHj3daf6qJceM3yic=\u002F206x305\u002Fv2\u002Fhttps:\u002F\u002Fresizing.flixster.com\u002F8ZFc4VKwZN8NGV3ZqhCIFCHekxM=\u002Fems.cHJkLWVtcy1hc3NldHMvbW92aWVzLzJlNDAyYWUzLWEwZTUtNDVlNy04MDliLTRmZWIzNDMzMzJmYS5qcGc=","title":"Fast X","tomatometerScore":57,"tomatometerState":"rotten","top3Cast":["Vin Diesel","Michelle Rodriguez","Tyrese Gibson"],"type":"Movie","url":"\u002Fm\u002Ffast_x","releaseYear":"2023","presentationDate":"(2023)"},{"audienceScore":{"score":"82","scoreSentiment":"POSITIVE","certifiedFresh":"none","certified":false,"scorePercent":"82%"},"directors":["Justin Lin"],"emsId":"6490d427-6414-39aa-9cf6-cbe57102f87a","exeProducers":[],"imageUrl":"https:\u002F\u002Fresizing.flixster.com\u002FEXgP2_38eRm2XQtaPIe_XOYSuuc=\u002F206x305\u002Fv2\u002Fhttps:\u002F\u002Fresizing.flixster.com\u002FRYaXF6wKOa0WI2I2lY2DGkvWOgk=\u002Fems.cHJkLWVtcy1hc3NldHMvbW92aWVzLzdhYTRiMjQ1LWMyMDctNGM1MC1iYzY3LWIzM2VhNmU0MTlkOC5qcGc=","title":"F9 The Fast Saga","tomatometerScore":59,"tomatometerState":"rotten","top3Cast":["Vin Diesel","Michelle Rodriguez","Jordana Brewster"],"type":"Movie","url":"\u002Fm\u002Ff9","releaseYear":"2021","presentationDate":"(2021)"},{"audienceScore":{"score":"69","scoreSentiment":"POSITIVE","certified":false,"scorePercent":"69%"},"directors":[],"emsId":"597c2fb6-e277-383f-b95d-6c6813beaaf1","exeProducers":["Vin Diesel","Neal H. Moritz","Chris Morgan","Tim Hedrick","Bret Haaland"],"imageUrl":"https:\u002F\u002Fresizing.flixster.com\u002FoALXJ7EyvQo6-NmFAppHmWCZnGg=\u002F206x305\u002Fv2\u002Fhttps:\u002F\u002Fresizing.flixster.com\u002FAvQ4yUhDi4jgcoWK3vJFz1-byKY=\u002Fems.cHJkLWVtcy1hc3NldHMvdHZzZXJpZXMvUlRUVjYxNTgxNy53ZWJw","title":"Fast & Furious: Spy Racers","tomatometerScore":null,"tomatometerState":null,"top3Cast":["Tyler Posey","Camille Ramsey","Luke Youngblood"],"type":"TvSeries","url":"\u002Ftv\u002Ffast_and_furious_spy_racers","releaseYear":"2019","presentationDate":"(2019 - Present)"},{"audienceScore":{"score":"88","scoreSentiment":"POSITIVE","certifiedFresh":"none","certified":false,"scorePercent":"88%"},"directors":["David Leitch"],"emsId":"898439d3-d4fc-3a8e-a265-cb6ebe4e9c5f","exeProducers":["Dany Garcia","Kelly McCormick","Ethan Smith","Ainsley Davies","Steve Chasman"],"imageUrl":"https:\u002F\u002Fresizing.flixster.com\u002FiHdoFgNuxLD89552_OqJhPGtsHc=\u002F206x305\u002Fv2\u002Fhttps:\u002F\u002Fresizing.flixster.com\u002F3junDUcLJvCox0F3MpWAm7zDSbg=\u002Fems.cHJkLWVtcy1hc3NldHMvbW92aWVzL2Q5ODY2MDc2LTBhNzktNDg2Ni04MWE2LTAzNzZlNTM1ODQxYi53ZWJw","title":"Fast & Furious Presents: Hobbs & Shaw","tomatometerScore":67,"tomatometerState":"fresh","top3Cast":["Dwayne Johnson","Jason Statham","Idris Elba"],"type":"Movie","url":"\u002Fm\u002Ffast_and_furious_presents_hobbs_and_shaw","releaseYear":"2019","presentationDate":"(2019)"},{"audienceScore":{"score":"72","scoreSentiment":"POSITIVE","certifiedFresh":"none","certified":false,"scorePercent":"72%"},"directors":["F. Gary Gray"],"emsId":"16c39ad7-8352-34c2-8fcf-66ad01d149b0","exeProducers":["Amanda Lewis","Samantha Vincent"],"imageUrl":"https:\u002F\u002Fresizing.flixster.com\u002FcRdL7b3LXOiD9jij-boSYUQM4aU=\u002F206x305\u002Fv2\u002Fhttps:\u002F\u002Fresizing.flixster.com\u002FJYqN0FuDTI5-OHTI3XdA0Dfyoms=\u002Fems.cHJkLWVtcy1hc3NldHMvbW92aWVzLzBlMTUwZGFhLTZmODAtNGZmYi1iZTkzLTAxNDI2ZWZiODcxYy53ZWJw","title":"The Fate of the Furious","tomatometerScore":67,"tomatometerState":"fresh","top3Cast":["Vin Diesel","Dwayne Johnson","Charlize Theron"],"type":"Movie","url":"\u002Fm\u002Fthe_fate_of_the_furious","releaseYear":"2017","presentationDate":"(2017)"},{"audienceScore":{"score":"82","scoreSentiment":"POSITIVE","certifiedFresh":"none","certified":false,"scorePercent":"82%"},"directors":["James Wan"],"emsId":"bd5d85e4-2ec5-3a26-bc32-f3129e85bd1b","exeProducers":[],"imageUrl":"https:\u002F\u002Fresizing.flixster.com\u002Fpp2CJAdJHuzDncsyo5UgXC8c4YA=\u002F206x305\u002Fv2\u002Fhttps:\u002F\u002Fresizing.flixster.com\u002F-XZAfHZM39UwaGJIFWKAE8fS0ak=\u002Fv3\u002Ft\u002Fassets\u002Fp10679969_p_v8_at.jpg","title":"Furious Seven","tomatometerScore":82,"tomatometerState":"certified-fresh","top3Cast":["Vin Diesel","Paul Walker","Dwayne Johnson"],"type":"Movie","url":"\u002Fm\u002Ffurious_7","releaseYear":"2015","presentationDate":"(2015)"},{"audienceScore":{"score":"84","scoreSentiment":"POSITIVE","certifiedFresh":"none","certified":false,"scorePercent":"84%"},"directors":["Justin Lin"],"emsId":"daaf3a30-c81b-36f8-b606-b1fa4e06ad32","exeProducers":["Justin Lin","Amanda Lewis","Samantha Vincent","Chris Morgan"],"imageUrl":"https:\u002F\u002Fresizing.flixster.com\u002FdJUU6CNK8IBSjsImW4nXCxxUVwU=\u002F206x305\u002Fv2\u002Fhttps:\u002F\u002Fresizing.flixster.com\u002F-XZAfHZM39UwaGJIFWKAE8fS0ak=\u002Fv3\u002Ft\u002Fassets\u002Fp9573130_p_v7_ab.jpg","title":"Fast & Furious 6","tomatometerScore":71,"tomatometerState":"fresh","top3Cast":["Vin Diesel","Paul Walker","Dwayne Johnson"],"type":"Movie","url":"\u002Fm\u002Ffast_and_furious_6","releaseYear":"2013","presentationDate":"(2013)"},{"audienceScore":{"score":"83","scoreSentiment":"POSITIVE","certifiedFresh":"none","certified":false,"scorePercent":"83%"},"directors":["Justin Lin"],"emsId":"11908db6-b627-38a4-8bc8-285b3f635197","exeProducers":["Amanda Lewis","Samantha Vincent","Justin Lin"],"imageUrl":"https:\u002F\u002Fresizing.flixster.com\u002FRpA9CDKwy5EvgaQ2D4T0N9Pk-Ws=\u002F206x305\u002Fv2\u002Fhttps:\u002F\u002Fresizing.flixster.com\u002F-XZAfHZM39UwaGJIFWKAE8fS0ak=\u002Fv3\u002Ft\u002Fassets\u002Fp8338313_p_v10_bb.jpg","title":"Fast Five","tomatometerScore":78,"tomatometerState":"certified-fresh","top3Cast":["Vin Diesel","Paul Walker","Jordana Brewster"],"type":"Movie","url":"\u002Fm\u002Ffast_five","releaseYear":"2011","presentationDate":"(2011)"},{"audienceScore":{"score":"67","scoreSentiment":"POSITIVE","certifiedFresh":"none","certified":false,"scorePercent":"67%"},"directors":["Justin Lin"],"emsId":"cd4cf73e-99f9-3b35-830e-be001d1806d5","exeProducers":["Amanda Lewis","Samantha Vincent"],"imageUrl":"https:\u002F\u002Fresizing.flixster.com\u002Fx3dP2pGqytUs7g6HfGwg9lXTSXU=\u002F206x305\u002Fv2\u002Fhttps:\u002F\u002Fresizing.flixster.com\u002F-XZAfHZM39UwaGJIFWKAE8fS0ak=\u002Fv3\u002Ft\u002Fassets\u002Fp188702_p_v8_bg.jpg","title":"Fast & Furious","tomatometerScore":29,"tomatometerState":"rotten","top3Cast":["Vin Diesel","Paul Walker","Michelle Rodriguez"],"type":"Movie","url":"\u002Fm\u002Ffast_and_furious","releaseYear":"2009","presentationDate":"(2009)"},{"audienceScore":{"score":"69","scoreSentiment":"POSITIVE","certifiedFresh":"none","certified":false,"scorePercent":"69%"},"directors":["Justin Lin"],"emsId":"5be823f5-0903-3058-b4e2-fb1cbc99e42c","exeProducers":["Clayton Townsend","Ryan Kavanaugh","Lynwood Spinks"],"imageUrl":"https:\u002F\u002Fresizing.flixster.com\u002Fl4esuPlsdTaWy-8XJshzZCm570M=\u002F206x305\u002Fv2\u002Fhttps:\u002F\u002Fresizing.flixster.com\u002F-XZAfHZM39UwaGJIFWKAE8fS0ak=\u002Fv3\u002Ft\u002Fassets\u002Fp159790_p_v10_an.jpg","title":"The Fast and the Furious: Tokyo Drift","tomatometerScore":38,"tomatometerState":"rotten","top3Cast":["Lucas Black","Zachery Ty Bryan","Shad \"Bow Wow\" Moss"],"type":"Movie","url":"\u002Fm\u002Ffast_and_the_furious_tokyo_drift","releaseYear":"2006","presentationDate":"(2006)"},{"audienceScore":{"score":"50","scoreSentiment":"NEGATIVE","certified":false,"scorePercent":"50%"},"directors":["John Singleton"],"emsId":"bd603424-330b-3f54-89a1-92a397faf045","exeProducers":["Lee R. Mayes","Michael Fottrell"],"imageUrl":"https:\u002F\u002Fresizing.flixster.com\u002FZT6yN6Nklx1t4S7ht3lfceJhxpk=\u002F206x305\u002Fv2\u002Fhttps:\u002F\u002Fresizing.flixster.com\u002F-XZAfHZM39UwaGJIFWKAE8fS0ak=\u002Fv3\u002Ft\u002Fassets\u002Fp32092_p_v8_ab.jpg","title":"2 Fast 2 Furious","tomatometerScore":37,"tomatometerState":"rotten","top3Cast":["Paul Walker","Tyrese Gibson","Eva Mendes"],"type":"Movie","url":"\u002Fm\u002F2_fast_2_furious","releaseYear":"2003","presentationDate":"(2003)"},{"audienceScore":{"score":"74","scoreSentiment":"POSITIVE","certifiedFresh":"none","certified":false,"scorePercent":"74%"},"directors":["Rob Cohen"],"emsId":"58275ce0-72a1-3f4a-a1e9-b648df8549a3","exeProducers":["Doug Claybourne","John Pogue"],"imageUrl":"https:\u002F\u002Fresizing.flixster.com\u002FFmxbBDqnw3wR6M1qOUwYDLVx3hU=\u002F206x305\u002Fv2\u002Fhttps:\u002F\u002Fresizing.flixster.com\u002F-XZAfHZM39UwaGJIFWKAE8fS0ak=\u002Fv3\u002Ft\u002Fassets\u002Fp27779_p_v8_aw.jpg","title":"The Fast and the Furious","tomatometerScore":55,"tomatometerState":"rotten","top3Cast":["Vin Diesel","Paul Walker","Michelle Rodriguez"],"type":"Movie","url":"\u002Fm\u002F1108372-fast_and_the_furious","releaseYear":"2001","presentationDate":"(2001)"}];
+root.RottenTomatoes.criticPage = {"vanity":"ineye-komonibo","type":"movies","typeDisplayName":"Movie","totalReviews":"","criticID":"23868"};
+root.RottenTomatoes.context.totalCount = 12;
+root.RottenTomatoes.context.video = {"file":"https:\u002F\u002Flink.theplatform.com\u002Fs\u002FNGweTC\u002Fmedia\u002FonESmjrUKV3G?formats=MPEG-DASH+widevine,M3U+appleHlsEncryption,M3U+none,MPEG-DASH+none,MPEG4,MP3","type":"hls","description":"","image":"https:\u002F\u002Fstatcdn.fandango.com\u002FMPX\u002Fimage\u002FNBCU_Fandango\u002F934\u002F235\u002Fidreaminanotherlanguage_trailer1.jpg","isRedBand":false,"mediaid":"1010295875646","mpxId":"1010295875646","publicId":"onESmjrUKV3G","title":"I Dream In Another Language: Trailer 1","default":false,"label":"0","duration":"2:04","durationInSeconds":"124.041","emsMediaType":"Movie","emsId":"f0b6d2a7-dc3b-3a99-aa77-65ee85248a58","overviewPageUrl":"\u002Fm\u002Fi_dream_in_another_language","videoPageUrl":"\u002Fm\u002Fi_dream_in_another_language\u002Fvideos\u002FonESmjrUKV3G","videoType":"TRAILER","adobeDataLayer":{"content":{"id":"fandango_1010295875646","length":"124.041","type":"vod","player_name":"jw","sdk_version":"web: 6.51.0","channel":"movie","originator":"","name":"i dream in another language: trailer 1","rating":"not adult","stream_type":"video"},"media_params":{"genre":"drama, fantasy","show_type":1}},"comscore":{"labelmapping":"c3=\"rottentomatoes.com\", ns_st_st=\"Rotten Tomatoes\", ns_st_pu=\"undefined\", ns_st_pr=\"I Dream in Another Language\", ns_st_sn=\"*null\", ns_st_en=\"*null\", ns_st_ge=\"Drama,Fantasy\", ns_st_ia=\"0\", ns_st_ce=\"0\", ns_st_ddt=\"2017\", ns_st_tdt=\"2017\""},"thumbnail":"https:\u002F\u002Fresizing.flixster.com\u002FL0RuO1WB49DVwOtrBl_iNGwtxFg=\u002F270x160\u002Fv2\u002Fhttps:\u002F\u002Fstatcdn.fandango.com\u002FMPX\u002Fimage\u002FNBCU_Fandango\u002F934\u002F235\u002Fidreaminanotherlanguage_trailer1.jpg"};
+root.RottenTomatoes.context.videoClipsJson = {"count":1};
+root.RottenTomatoes.context.layout = {"header":{"movies":{"moviesAtHome":{"tarsSlug":"rt-nav-movies-at-home","linkList":[{"header":"Fandango at Home","slug":"fandango-at-home-link","url":"\u002Fbrowse\u002Fmovies_at_home\u002Faffiliates:fandango-at-home"},{"header":"Peacock","slug":"peacock-link","url":"\u002Fbrowse\u002Fmovies_at_home\u002Faffiliates:peacock"},{"header":"Netflix","slug":"netflix-link","url":"\u002Fbrowse\u002Fmovies_at_home\u002Faffiliates:netflix"},{"header":"Apple TV+","slug":"apple-tv-link","url":"\u002Fbrowse\u002Fmovies_at_home\u002Faffiliates:apple-tv-plus"},{"header":"Prime Video","slug":"prime-video-link","url":"\u002Fbrowse\u002Fmovies_at_home\u002Faffiliates:prime-video"},{"header":"Most Popular Streaming movies","slug":"most-popular-streaming-movies-link","url":"\u002Fbrowse\u002Fmovies_at_home\u002Fsort:popular"},{"header":"Certified Fresh movies","slug":"certified-fresh-movies-link","url":"\u002Fbrowse\u002Fmovies_at_home\u002Fcritics:certified_fresh"},{"header":"Browse all","slug":"browse-all-link","url":"\u002Fbrowse\u002Fmovies_at_home"}]}},"editorial":{"guides":{"posts":[{"ID":254807,"author":12,"featured_image":{"source":"https:\u002F\u002Feditorial.rottentomatoes.com\u002Fwp-content\u002Fuploads\u002F2025\u002F03\u002F600InTheLostLands.jpg"},"link":"https:\u002F\u002Feditorial.rottentomatoes.com\u002Fguide\u002Fbest-new-action-movies\u002F","status":"publish","title":"100 Best New Action Movies of 2025","type":"guide"},{"ID":197584,"author":12,"featured_image":{"source":"https:\u002F\u002Feditorial.rottentomatoes.com\u002Fwp-content\u002Fuploads\u002F2025\u002F02\u002F600Mickey17.jpg"},"link":"https:\u002F\u002Feditorial.rottentomatoes.com\u002Fguide\u002Fpopular-movies\u002F","status":"publish","title":"30 Most Popular Movies Right Now: What to Watch In Theaters and Streaming","type":"guide"}],"title":"Guides","url":"https:\u002F\u002Feditorial.rottentomatoes.com\u002Fcountdown\u002F"},"hubs":{"posts":[{"ID":237626,"author":12,"featured_image":{"source":"https:\u002F\u002Feditorial.rottentomatoes.com\u002Fwp-content\u002Fuploads\u002F2023\u002F05\u002FRT_WTW_Generic_2023_Thumbnail_600x314_021623.jpg"},"link":"https:\u002F\u002Feditorial.rottentomatoes.com\u002Frt-hub\u002Fwhat-to-watch\u002F","status":"publish","title":"What to Watch: In Theaters and On Streaming.","type":"rt-hub"},{"ID":140214,"author":12,"featured_image":{"source":"https:\u002F\u002Feditorial.rottentomatoes.com\u002Fwp-content\u002Fuploads\u002F2023\u002F02\u002FRT_AwardsTour_Thumbnail_600x314.jpg"},"link":"https:\u002F\u002Feditorial.rottentomatoes.com\u002Frt-hub\u002Fawards-tour\u002F","status":"publish","title":"Awards Tour","type":"rt-hub"}],"title":"Hubs","url":"https:\u002F\u002Feditorial.rottentomatoes.com\u002Frt-hubs\u002F"},"news":{"posts":[{"ID":260132,"author":814,"featured_image":{"source":"https:\u002F\u002Feditorial.rottentomatoes.com\u002Fwp-content\u002Fuploads\u002F2025\u002F03\u002FRenewed_Cancelled_Conan_OBrien_Must_Go-Rep.jpg"},"link":"https:\u002F\u002Feditorial.rottentomatoes.com\u002Farticle\u002Frenewed-and-cancelled-tv-shows-2025\u002F","status":"publish","title":"Renewed and Cancelled TV Shows 2025","type":"article"},{"ID":263124,"author":919,"featured_image":{"source":"https:\u002F\u002Feditorial.rottentomatoes.com\u002Fwp-content\u002Fuploads\u002F2025\u002F03\u002FReacher_Exclusive-600x314-1.jpg"},"link":"https:\u002F\u002Feditorial.rottentomatoes.com\u002Farticle\u002Freacher-season-3-exclusive-trailer\u002F","status":"publish","title":"\u003Cem\u003EReacher\u003C\u002Fem\u003E: Season 3 Exclusive Mid-Season Trailer","type":"article"}],"title":"RT News","url":"https:\u002F\u002Feditorial.rottentomatoes.com\u002Fnews\u002F"}},"trendingTarsSlug":"rt-nav-trending","trending":[{"header":"SXSW Scorecard","url":"https:\u002F\u002Feditorial.rottentomatoes.com\u002Fguide\u002Fsxsw-2025-scorecard\u002F"},{"header":"Death of a Unicorn","url":"https:\u002F\u002Feditorial.rottentomatoes.com\u002Farticle\u002Fdeath-of-a-unicorn-first-reviews\u002F"},{"header":"Renewed and Cancelled TV","url":"https:\u002F\u002Feditorial.rottentomatoes.com\u002Farticle\u002Frenewed-and-cancelled-tv-shows-2025\u002F"},{"header":"Free Movies","url":"https:\u002F\u002Feditorial.rottentomatoes.com\u002Farticle\u002Ffresh-movies-you-can-watch-for-free-online-right-now\u002F"}],"certifiedMedia":{"certifiedFreshTvSeason":{"header":null,"media":{"url":"\u002Ftv\u002Fdeli_boys\u002Fs01","name":"Deli Boys: Season 1","score":95,"posterImg":"https:\u002F\u002Fresizing.flixster.com\u002F77r1UzSLRXk9STTxT9M2ougqfHg=\u002F206x305\u002Fv2\u002Fhttps:\u002F\u002Fresizing.flixster.com\u002FT63G4aUx1niXPkz3PGPZP98TcNg=\u002Ffit-in\u002F180x240\u002Fv2\u002Fhttps:\u002F\u002Fresizing.flixster.com\u002F3EOUHyXsX_MLcbGRMGT2GthaMgY=\u002Fems.cHJkLWVtcy1hc3NldHMvdHZzZWFzb24vOWI5MmViNzAtNGFjMy00YWNiLTgwY2UtZDAxZDg3MjIzMDJiLmpwZw=="},"tarsSlug":"rt-nav-list-cf-picks"},"certifiedFreshMovieInTheater":{"header":null,"media":{"url":"\u002Fm\u002Fmickey_17","name":"Mickey 17","score":77,"posterImg":"https:\u002F\u002Fresizing.flixster.com\u002F21W1ZSeVuMpI_1JZDKTjq9iaCwk=\u002F206x305\u002Fv2\u002Fhttps:\u002F\u002Fresizing.flixster.com\u002FCFXfXMsowJVQX3uZguoeWjgrB3o=\u002Ffit-in\u002F180x240\u002Fv2\u002Fhttps:\u002F\u002Fresizing.flixster.com\u002F1OiUfykO45X98oT74J71RvidMxA=\u002Fems.cHJkLWVtcy1hc3NldHMvbW92aWVzL2ExNDlhNzE2LTFlODMtNGMyNi04ZWY1LTNlYmY5N2ZmYWJhNy5qcGc="}},"certifiedFreshMovieInTheater4":{"header":null,"media":{"url":"\u002Fm\u002Fmy_dead_friend_zoe","name":"My Dead Friend Zoe","score":95,"posterImg":"https:\u002F\u002Fresizing.flixster.com\u002FwihHNwcpYB00_eFkFEQMkvJlDPU=\u002F206x305\u002Fv2\u002Fhttps:\u002F\u002Fresizing.flixster.com\u002FlRPEbjdTLikpdWBK_gwHp2UTAqE=\u002Ffit-in\u002F180x240\u002Fv2\u002Fhttps:\u002F\u002Fresizing.flixster.com\u002FOw28GupE_D2lOF4rQh1Rn87VuHg=\u002Fems.cHJkLWVtcy1hc3NldHMvbW92aWVzL2YxOTIzZWY4LWZiN2UtNDdhMC1iYjIzLThkYzc1MGM2YTkwNC5qcGc="}},"certifiedFreshMovieAtHome":{"header":null,"media":{"url":"\u002Fm\u002Flast_breath_2025","name":"Last Breath","score":78,"posterImg":"https:\u002F\u002Fresizing.flixster.com\u002FrOACad3BpRO92z1j5PV3DxVeaPM=\u002F206x305\u002Fv2\u002Fhttps:\u002F\u002Fresizing.flixster.com\u002Fb1HTK_azzbyePGrjNn1dIQfTSnM=\u002Ffit-in\u002F180x240\u002Fv2\u002Fhttps:\u002F\u002Fresizing.flixster.com\u002Fa2R617LgmOW6sypCw_2rlWlz2-M=\u002Fems.cHJkLWVtcy1hc3NldHMvbW92aWVzL2IxMmRhMDFkLTA2ZDUtNGUyNS1hOGE0LTQzZTdjNzAwNDgzMC5qcGc="}},"tarsSlug":"rt-nav-list-cf-picks"},"tvLists":{"newTvTonight":{"tarsSlug":"rt-hp-text-list-3","title":"New TV Tonight","shows":[{"title":"The Righteous Gemstones: Season 4","tomatometer":{"tomatometer":100,"sentiment":"positive","certified":false},"tvPageUrl":"\u002Ftv\u002Fthe_righteous_gemstones\u002Fs04"},{"title":"Dark Winds: Season 3","tomatometer":{"tomatometer":100,"sentiment":"positive","certified":false},"tvPageUrl":"\u002Ftv\u002Fdark_winds\u002Fs03"},{"title":"Adolescence: Season 1","tomatometer":{"tomatometer":100,"sentiment":"positive","certified":false},"tvPageUrl":"\u002Ftv\u002Fadolescence\u002Fs01"},{"title":"Dope Thief: Season 1","tomatometer":{"tomatometer":82,"sentiment":"positive","certified":false},"tvPageUrl":"\u002Ftv\u002Fdope_thief\u002Fs01"},{"title":"The Wheel of Time: Season 3","tomatometer":{"tomatometer":83,"sentiment":"positive","certified":false},"tvPageUrl":"\u002Ftv\u002Fthe_wheel_of_time\u002Fs03"},{"title":"Am I Being Unreasonable?: Season 2","tomatometer":{"tomatometer":null,"sentiment":"empty","certified":false},"tvPageUrl":"\u002Ftv\u002Fam_i_being_unreasonable\u002Fs02"},{"title":"Long Bright River: Season 1","tomatometer":{"tomatometer":null,"sentiment":"empty","certified":false},"tvPageUrl":"\u002Ftv\u002Flong_bright_river\u002Fs01"},{"title":"Everybody's Live with John Mulaney: Season 1","tomatometer":{"tomatometer":null,"sentiment":"empty","certified":false},"tvPageUrl":"\u002Ftv\u002Feverybodys_live_with_john_mulaney\u002Fs01"},{"title":"American Manhunt: Osama bin Laden: Season 1","tomatometer":{"tomatometer":null,"sentiment":"empty","certified":false},"tvPageUrl":"\u002Ftv\u002Famerican_manhunt_osama_bin_laden\u002Fs01"}]},"mostPopularTvOnRt":{"tarsSlug":"rt-hp-text-list-2","title":"Most Popular TV on RT","shows":[{"title":"Daredevil: Born Again: Season 1","tomatometer":{"tomatometer":84,"sentiment":"positive","certified":true},"tvPageUrl":"\u002Ftv\u002Fdaredevil_born_again\u002Fs01"},{"title":"The White Lotus: Season 3","tomatometer":{"tomatometer":95,"sentiment":"positive","certified":true},"tvPageUrl":"\u002Ftv\u002Fthe_white_lotus\u002Fs03"},{"title":"The Studio: Season 1","tomatometer":{"tomatometer":100,"sentiment":"positive","certified":false},"tvPageUrl":"\u002Ftv\u002Fthe_studio\u002Fs01"},{"title":"Severance: Season 2","tomatometer":{"tomatometer":97,"sentiment":"positive","certified":true},"tvPageUrl":"\u002Ftv\u002Fseverance\u002Fs02"},{"title":"Paradise: Season 1","tomatometer":{"tomatometer":83,"sentiment":"positive","certified":true},"tvPageUrl":"\u002Ftv\u002Fparadise_2025\u002Fs01"},{"title":"With Love, Meghan: Season 1","tomatometer":{"tomatometer":38,"sentiment":"negative","certified":false},"tvPageUrl":"\u002Ftv\u002Fwith_love_meghan\u002Fs01"},{"title":"The Righteous Gemstones: Season 4","tomatometer":{"tomatometer":100,"sentiment":"positive","certified":false},"tvPageUrl":"\u002Ftv\u002Fthe_righteous_gemstones\u002Fs04"},{"title":"Zero Day: Season 1","tomatometer":{"tomatometer":52,"sentiment":"negative","certified":false},"tvPageUrl":"\u002Ftv\u002Fzero_day\u002Fs01"},{"title":"Dark Winds: Season 3","tomatometer":{"tomatometer":100,"sentiment":"positive","certified":false},"tvPageUrl":"\u002Ftv\u002Fdark_winds\u002Fs03"}]}}},"links":{"moviesInTheaters":{"certifiedFresh":"\u002Fbrowse\u002Fmovies_in_theaters\u002Fcritics:certified_fresh~sort:popular","comingSoon":"\u002Fbrowse\u002Fmovies_coming_soon\u002F","openingThisWeek":"\u002Fbrowse\u002Fmovies_in_theaters\u002Fsort:newest","title":"\u002Fbrowse\u002Fmovies_in_theaters","topBoxOffice":"\u002Fbrowse\u002Fmovies_in_theaters"},"onDvdAndStreaming":{"all":"\u002Fbrowse\u002Fmovies_at_home\u002F","certifiedFresh":"\u002Fbrowse\u002Fmovies_at_home\u002Fcritics:certified_fresh","title":"\u002Fbrowse\u002Fmovies_at_home\u002F","top":"\u002Fbrowse\u002Fmovies_at_home\u002Fsort:popular"},"moreMovies":{"topMovies":"\u002Fbrowse\u002Fmovies_at_home\u002Fsort:popular","trailers":"\u002Ftrailers"},"tvTonight":"\u002Fbrowse\u002Ftv_series_browse\u002Fsort:newest","tvPopular":"\u002Fbrowse\u002Ftv_series_browse\u002Fsort:popular","moreTv":{"topTv":"\u002Fbrowse\u002Ftv_series_browse\u002Fsort:popular","certifiedFresh":"\u002Fbrowse\u002Ftv_series_browse\u002Fcritics:fresh"},"editorial":{"allTimeLists":"https:\u002F\u002Feditorial.rottentomatoes.com\u002Fall-time-lists\u002F","bingeGuide":"https:\u002F\u002Feditorial.rottentomatoes.com\u002Fbinge-guide\u002F","comicsOnTv":"https:\u002F\u002Feditorial.rottentomatoes.com\u002Fcomics-on-tv\u002F","countdown":"https:\u002F\u002Feditorial.rottentomatoes.com\u002Fcountdown\u002F","fiveFavoriteFilms":"https:\u002F\u002Feditorial.rottentomatoes.com\u002Ffive-favorite-films\u002F","videoInterviews":"https:\u002F\u002Feditorial.rottentomatoes.com\u002Fvideo-interviews\u002F","weekendBoxOffice":"https:\u002F\u002Feditorial.rottentomatoes.com\u002Fweekend-box-office\u002F","weeklyKetchup":"https:\u002F\u002Feditorial.rottentomatoes.com\u002Fweekly-ketchup\u002F","whatToWatch":"https:\u002F\u002Feditorial.rottentomatoes.com\u002Fwhat-to-watch\u002F"},"advertisingFooter":"https:\u002F\u002Ftogether.nbcuni.com\u002Fadvertise\u002F?utm_source=rotten_tomatoes&utm_medium=referral&utm_campaign=property_ad_pages&utm_content=footer","californiaNotice":"https:\u002F\u002Fwww.nbcuniversal.com\u002Fprivacy\u002Fcalifornia-consumer-privacy-act","careers":"\u002F\u002Fwww.fandango.com\u002Fcareers","cookieManagement":"https:\u002F\u002Fwww.nbcuniversal.com\u002Fprivacy\u002Fcookies#accordionheader2","fandangoAbout":"https:\u002F\u002Fwww.fandango.com\u002Fabout-us","privacyPolicy":"https:\u002F\u002Fwww.nbcuniversal.com\u002Ffandango-privacy-policy","termsPolicies":"\u002Fpolicies\u002Fterms-and-policies"}};
+root.BK = {"PageName":"http:\u002F\u002Fwww.rottentomatoes.com\u002Fm\u002Favengers_endgame\u002Freviews?type=user","SiteID":37528,"SiteSection":""};
+root.RottenTomatoes.thirdParty = {"chartBeat":{"auth":"64558","domain":"rottentomatoes.com"},"mpx":{"accountPid":"NGweTC","playerPid":"y__7B0iQTi4P","playerPidPDK6":"pdk6_y__7B0iQTi4P","accountId":"2474312077"},"algoliaSearch":{"aId":"79FRDP12PN","sId":"175588f6e5f8319b27702e4cc4013561"},"cognito":{"upId":"us-west-2_4L0ZX4b1U","clientId":"7pu48v8i2n25t4vhes0edck31c"}};
+root.RottenTomatoes.serviceWorker = {"isServiceWokerOn":true};
+root.__RT__ || (root.__RT__ = {});
+root.__RT__.featureFlags = {"adsCarouselHP":false,"adsCarouselHPSlug":"rt-sponsored-carousel-list-disney-plus","adsCarouselOP":false,"adsCarouselOPSlug":"rt-sponsored-carousel-list-disney-plus","adsMockDLP":false,"adsPages":"none","adsVideoSpotlightHP":false,"authPasswordEnabled":false,"authVerboseLogs":false,"bypassCriticValidationEnabled":false,"castAndCrewEnabled":true,"editorialApiDisabled":false,"legacyBridge":true,"pageJsonEnabled":false,"redesignGlobalStyles":false,"redesignMediaHeroEnabled":true,"redesignMoreLikeThis":true,"redesignSortTable":true,"userMigrationEnabled":false,"videoGeoFencingEnabled":true};
+root.RottenTomatoes.context.adsMockDLP = false;
+root.RottenTomatoes.context.req = {"params":{"vanity":"avengers_endgame"},"queries":{"type":"user"},"route":{},"url":"\u002Fm\u002Favengers_endgame\u002Freviews?type=user","secure":false,"buildVersion":undefined};
+root.RottenTomatoes.context.config = {};
+root.RottenTomatoes.context.review = {"mediaType":"movie","title":"Avengers: Endgame","emsId":"7b2bcd9a-359f-3ffd-bbbd-abe9e5ce3f9e","type":"user","sort":undefined,"reviewsCount":0,"pageInfo":undefined,"reviewerDefaultImg":"https:\u002F\u002Fimages.fandango.com\u002Fcms\u002Fassets\u002F5b6ff500-1663-11ec-ae31-05a670d2d590--rtactordefault.png","reviewerDefaultImgWidth":"100"};
+root.RottenTomatoes.context.useCursorPagination = true;
+root.RottenTomatoes.context.verifiedTooltip = undefined;
+root.RottenTomatoes.dtmData = {"webVersion":"node","rtVersion":3.1,"loggedInStatus":"","customerId":"","pageName":"rt | movies | reviews | Avengers: Endgame","titleType":"Movie","titleId":"7b2bcd9a-359f-3ffd-bbbd-abe9e5ce3f9e","titleName":"Avengers: Endgame","titleGenre":"Action|Adventure|Fantasy|Sci-Fi","lifeCycleWindow":""};
+root.RottenTomatoes.context.gptSite = "movie";
+
+      }(this));
+    </script>
+<script fetchpriority="high" src="/assets/pizza-pie/javascripts/bundles/roma/preload.22d20f72b4e.js"></script>
+<script src="/assets/pizza-pie/javascripts/bundles/roma/vendors.a4cc402b78a.js"></script>
+<script src="/assets/pizza-pie/javascripts/bundles/roma/default.e57847adcc4.js"></script>
+<script src="https://cdn.jsdelivr.net/npm/algoliasearch@4/dist/algoliasearch-lite.umd.js"></script>
+<script src="/assets/pizza-pie/javascripts/templates/roma/searchNav.c074792fb22.js"></script>
+<script src="/assets/pizza-pie/javascripts/bundles/roma/searchNav.efc801e8245.js"></script>
+<script src="/assets/pizza-pie/javascripts/templates/roma/reviews.2292f8a3875.js"></script>
+<script src="/assets/pizza-pie/javascripts/bundles/roma/reviews.706cf39153c.js"></script>
+<script>
+                if (window.mps && typeof window.mps.writeFooter === 'function') {
+                    window.mps.writeFooter();
+                }
+            </script>
+<script>
+                window._satellite && _satellite.pageBottom();
+            </script>
+</body>
+</html>
