@@ -6,4 +6,4 @@ __pycache__/
 *.pkl
 *.parquet
 .ipynb_checkpoints/
-PengembanganMachineLearning/generativeAI/genAI-venv
+generativeAI/genAI-venv
