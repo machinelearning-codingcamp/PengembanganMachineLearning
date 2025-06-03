@@ -7,3 +7,5 @@ __pycache__/
 *.parquet
 .ipynb_checkpoints/
 generativeAI/genAI-venv
+image-classification/data/chest_xray
+image-classification/Dataset-Final
