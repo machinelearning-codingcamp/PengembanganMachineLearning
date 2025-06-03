@@ -12,3 +12,4 @@ image-classification/Dataset-Final
 model-deployment/tensorflow-serving/dataset/rockpaperscissors
 model-deployment/nlp-venv/
 recommendation-system/.venv
+finalProject/data
