@@ -1,0 +1,9 @@
+.venv/
+__pycache__/
+*.zip
+*.h5
+*.tflite
+*.pkl
+*.parquet
+.ipynb_checkpoints/
+PengembanganMachineLearning/generativeAI/genAI-venv
