@@ -1,0 +1,26 @@
+Penjelasan File
+
+Setelah mengunduh contoh proyek, Anda akan menjumpai beberapa file dan folder sebagai berikut:
+
+    `dataset` merupakan sebuah folder berisi dataset untuk melatih dan mengevaluasi model.
+    ‘notebook.ipynb’ merupakan sebuah berkas notebook yang dapat dijalankan melalui Google Colab. Notebook ini berisi tahapan dalam membuat dan menyimpan model dalam format SavedModel. 
+    ‘models’ merupakan sebuah folder yang berisi model yang disimpan dalam format SavedModel.
+    ‘image’ merupakan sebuah folder yang berisi beberapa gambar yang akan digunakan sebagai input gambar untuk menguji hasil deployment.
+    ‘Test.ipynb’ merupakan sebuah berkas notebook yang digunakan untuk membuat request prediksi menggunakan API yang ada pada TF-Serving.
+
+
+    ├───dataset
+    │   ├───testing
+    │   │   ├───paper
+    │   │   ├───rock
+    │   │   └───scissors
+    │   └───training
+    │       ├───paper
+    │       ├───rock
+    │       └───scissors
+    ├───images
+    ├───models
+        └───rps_model
+            └───1
+                ├───assets
+                └───variables
